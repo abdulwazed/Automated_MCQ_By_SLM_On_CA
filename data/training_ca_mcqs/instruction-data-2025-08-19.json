@@ -1,0 +1,752 @@
+[
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Archaeological Survey of India recently found one of the earliest rock grooves in Kanniyakumari district, made during the Neolithic Age to sharpen weapons. The Neolithic Age, also known as the New Stone Age, was the last phase of prehistoric human development. It marked the shift from hunting and gathering to farming and animal domestication. This period began around 10,000 BCE during the Holocene Epoch. The Neolithic Revolution started in the Fertile Crescent in the Middle East and later spread to India and other regions.",
+        "output": "Question:1.The Archaeological Survey of India recently discovered a Neolithic rock groove in which district of Tamil Nadu? \nOptions: \n[A] Kanniyakumari  \n[B] Coimbatore  \n[C] Krishnagiri  \n[D] Madurai \nCorrect Answer: A [Kanniyakumari]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Technology Development Board (TDB), under the Department of Science and Technology (DST), has announced financial support for India’s first indigenous thrombectomy device. This support aims to improve stroke care by promoting homegrown medical technology. A thrombectomy is a medical procedure to remove blood clots from arteries or veins. These clots, called thrombi, can block blood flow and damage tissues or organs. Thrombectomy helps restore proper blood circulation and prevents serious health risks.",
+        "output": "Question:2.What is the primary objective of a Thrombectomy? \nOptions: \n[A] Remove blood clots and restore blood flow  \n[B] Reduce cholesterol levels  \n[C] Lower blood pressure  \n[D] None of the Above \nCorrect Answer: A [Remove blood clots and restore blood flow]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "India’s First Agricultural Hackathon was inaugurated at Sinchan Nagar Grounds, College of Agriculture, Pune, Maharashtra. It is jointly organised by the State Agriculture Department, Mahatma Phule Krishi Vidyapeeth (MPKV), and College of Agriculture, Pune. The event highlights the shared responsibility of farmers, industries, scientists, government, and society in improving agriculture.",
+        "output": "Question:3.Which city is the host of India’s first Agriculture Hackathon? \nOptions: \n[A] Indore, Madhya Pradesh  \n[B] Chennai, Tamil Nadu  \n[C] Pune, Maharashtra  \n[D] Varanasi, Uttar Pradesh \nCorrect Answer: C [Pune, Maharashtra]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Asian Development Bank (ADB) has committed $10 billion to boost India’s urban development and metro expansion. It will support India’s Urban Challenge Fund to increase private investment in cities. It promotes inclusive, resilient, and sustainable growth across Asia and the Pacific region. Its headquarters is in Manila, Philippines.",
+        "output": "Question:4.Where is the headquarters of the Asian Development Bank (ADB) located? \nOptions: \n[A] Tokyo, Japan  \n[B] New Delhi, India  \n[C] Beijing, China  \n[D] Manila, Philippines \nCorrect Answer: D [Manila, Philippines]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "In May 2025, Japan passed a new law called the Act on the Promotion of Research, Development and Utilisation of Artificial Intelligence-Related Technologies. This law aims to make Artificial Intelligence (AI) the core of Japan’s digital leadership and economic growth. Unlike strict global rules, Japan’s approach encourages coordination and voluntary responsibility instead of heavy regulation. This is different from the European Union’s AI Act passed in 2024. The EU law divides AI into risk levels like “Unacceptable” and “Minimal” and places strict rules on high-risk uses. Japan’s flexible model reflects a major shift in global AI policy thinking.",
+        "output": "Question:5.Which country passed a new law called the Act on the Promotion of Research, Development and Utilisation of AI-Related Technologies? \nOptions: \n[A] India  \n[B] Russia  \n[C] France  \n[D] Japan \nCorrect Answer: D [Japan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Assam and Meghalaya governments have agreed to build a 55 Megawatt (MW) hydropower project on the Kulsi River, which is home to the endangered Gangetic Dolphin. The Kulsi River flows through Meghalaya and Assam. Kulsi River originates in Meghalaya and flows around 60 km through West Khasi Hills into Kamrup district of Assam before joining the Brahmaputra River. It is a small, shallow river around 70–80 meters wide and known for its rich biodiversity.",
+        "output": "Question:6.Kulsi River, that was recently seen in news, flows through which two states? \nOptions: \n[A] Manipur and Tripura  \n[B] Arunachal Pradesh and Assam  \n[C] Assam and Meghalaya  \n[D] Tripura and Nagaland \nCorrect Answer: C [Assam and Meghalaya]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Union Minister Dr. Jitendra Singh inaugurated the 2025 Lavender Festival, organized by Council of Scientific and Industrial Research–Indian Institute of Integrative Medicine (CSIR–IIIM) Jammu in Bhaderwah town of Jammu. The festival celebrates Bhaderwah’s rise as a national centre for agri-business innovation and lavender farming. It is part of India’s ‘Purple Revolution’, a key initiative under the Aroma Mission to increase farmer incomes through aromatic crops. Bhaderwah has become the lavender capital of India, transforming conflict-hit villages into agro-prosperity zones.",
+        "output": "Question:7.Where was the Lavender festival 2025 organized? \nOptions: \n[A] Jammu  \n[B] Dehradun  \n[C] Mussoorie  \n[D] Darjeeling \nCorrect Answer: A [Jammu ]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Coal Ministry recently launched C CARES Version 2.0, a new portal of the Coal Mines Provident Fund Organization (CMPFO). It was developed by the Centre for Development of Advanced Computing (C-DAC) with support from State Bank of India. The portal improves efficiency and transparency in Provident Fund and Pension services for coal sector workers. It enables real-time tracking of claims, automatic ledger updates, and direct transfers to workers’ accounts.",
+        "output": "Question:8.What is the primary objective of the C CARES Version 2.0 portal launched by coal ministry? \nOptions: \n[A] Enhance transparency and efficiency in Provident Fund and Pension disbursements  \n[B] Promote coal exports  \n[C] Reduce coal mining costs  \n[D] Provide health insurance to coal workers \nCorrect Answer: A [Enhance transparency and efficiency in Provident Fund and Pension disbursements]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Indian Air Force (IAF) is planning to acquire the ‘Ice Breaker’ missile from Israel. The Ice Breaker is a long-range, air-launched cruise missile with precision guidance and autonomous capabilities. It is developed by Rafael Advanced Defense Systems, a leading Israeli defense company. The missile can be deployed from various platforms, including jet fighters, light attack aircraft, helicopters, small ships, and ground vehicles.",
+        "output": "Question:9.Ice Breaker Missile was developed by which country? \nOptions: \n[A] France  \n[B] Russia  \n[C] Israel  \n[D] United States \nCorrect Answer: C [Israel]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Rajasthan Chief Minister Bhajanlal Sharma launched the ‘Vande Ganga’ water conservation campaign on June 5, 2025, coinciding with World Environment Day and Ganga Dussehra. The campaign will run till June 20 to raise public awareness and promote water-saving efforts across all 41 districts. Activities include cleanliness drives, Tulsi plant distribution, plastic-free pledges, tree plantation, and worship of rivers and water bodies.",
+        "output": "Question:10.Which state government has launched the ‘Vande Ganga’ water conservation campaign? \nOptions: \n[A] Madhya Pradesh  \n[B] Uttar Pradesh  \n[C] Rajasthan  \n[D] Gujarat \nCorrect Answer: C [Rajasthan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The schedule for the Women’s Asia Cup Hockey 2025 has been announced and the tournament will be held in Hangzhou, China from 5th to 14th September. The Indian Women’s Hockey Team will start their campaign against Thailand on 5th September. India is in Pool B with Japan, Thailand, and Singapore, while Pool A includes China, Korea, Malaysia, and Chinese Taipei. India won the Bronze medal in the last edition and is aiming for the Gold this time. Winning the Asia Cup will give Team India direct entry to the 2026 Women’s Fédération Internationale de Hockey (FIH) Hockey World Cup.",
+        "output": "Question:11.Which country is the host of Women’s Asia Cup Hockey 2025? \nOptions: \n[A] India  \n[B] China  \n[C] Japan  \n[D] Singapore \nCorrect Answer: B [China]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Indian Army launched Operation Shiva in Jammu and Kashmir to ensure full security for the 38-day-long Amarnath Yatra beginning on July 3, 2025. This sacred pilgrimage to the Amarnath Cave shrine at 3,888 meters attracts thousands of devotees every year. The Shri Amarnathji Shrine Board (SASB) introduced Radio Frequency Identification (RFID) cards for tracking pilgrims.",
+        "output": "Question:12.What is the name of the security operation launched by the Indian Army for the Amarnath Yatra 2025? \nOptions: \n[A] Operation Trinetra  \n[B] Operation Shiva  \n[C] Operation Vijay  \n[D] Operation Surya \nCorrect Answer: B [Operation Shiva]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Flipkart has become the first major Indian e-commerce company to receive a Non-Banking Financial Company (NBFC) licence from the Reserve Bank of India (RBI). This marks the first time RBI has allowed a large e-commerce platform to operate its own NBFC. Unlike traditional NBFCs, Flipkart can lend money directly but cannot accept public deposits. Earlier, most e-commerce platforms offered loans through partnerships with banks or NBFCs. With this licence, Flipkart can now lend independently, which offers better control and higher profits. This development highlights RBI’s evolving regulatory stance on digital commerce and fintech integration.",
+        "output": "Question:13.Which has become the first major Indian e-commerce company to receive a Non-Banking Financial Company (NBFC) licence from RBI? \nOptions: \n[A] Amazon  \n[B] Snapdeal  \n[C] Meesho  \n[D] Flipkart \nCorrect Answer: D [Flipkart]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, IIT (Indian Institute of Technology) Kharagpur developed a web app called Dynamic Route Planning for Urban Green Mobility (DRUM). DRUM is like Google Maps but also helps users choose routes based on air quality and energy efficiency. It offers five route options: shortest, fastest, Least Exposure to Air Pollution (LEAP), Least Energy Consumption Route (LECR), and a combined suggested route. It uses live pollution and traffic data fetched instantly when a user enters a route. The app uses GraphHopper and Mapbox for real-time routing and traffic updates.",
+        "output": "Question:14.Which institute has developed a web app called Dynamic Route Planning for Urban Green Mobility (DRUM)? \nOptions: \n[A] IIT Delhi  \n[B] IIT Bombay  \n[C] IIT Kanpur  \n[D] IIT Kharagpur \nCorrect Answer: D [IIT Kharagpur ]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "For the first time, a tribal girl from the Kalvarayan Hills has secured admission to the Indian Institute of Technology (IIT), marking a historic achievement. The Kalvarayan Hills are located in the Eastern Ghats of Tamil Nadu and spread across 1,095 sq.km. These hills lie between the Kaveri River basin in the south and the Palar River basin in the north. They rise between 2,000 and 3,000 feet and stretch northeast from the Salem district. This success story highlights increasing access to higher education for tribal communities in remote regions.",
+        "output": "Question:15.Kalvarayan Hills are located in which state? \nOptions: \n[A] Kerala  \n[B] Karnataka  \n[C] Tamil Nadu  \n[D] Maharashtra \nCorrect Answer: C [Tamil Nadu]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Maharashtra Forest Department has recently partnered with Microsoft and Centre for Youth Development and Activities (CYDA), Pune, to solve socio-ecological issues in Tamhini Wildlife Sanctuary. Tamhini Wildlife Sanctuary is a protected forest located in the Western Ghats near Pune, Maharashtra. It includes 12 compartments from Paund and Sinhgad ranges in Pune division and 8 compartments from Mangaon range in Roha division of Thane.",
+        "output": "Question:16.Tamhini Wildlife Sanctuary is located in which state? \nOptions: \n[A] Maharashtra  \n[B] Tamil Nadu  \n[C] Karnataka  \n[D] Kerala \nCorrect Answer: A [Maharashtra]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "A new species of planarian worm named Dugesia punensis was recently discovered in Pashan Lake, Pune, Maharashtra. Planarians are aquatic flatworms known for their amazing ability to regenerate lost body parts. This species was found in a wetland within the Western Ghats, which is a biodiversity hotspot. The discovery marks the first time since 1983 that a new planarian species has been identified in India. Dugesia punensis adds to the understanding of India’s freshwater biodiversity and highlights the ecological importance of urban wetlands like Pashan Lake.",
+        "output": "Question:17.Where was the new species of planarian worm named Dugesia punensis recently discovered? \nOptions: \n[A] Loktak Lake, Manipur  \n[B] Chilika Lake, Odisha  \n[C] Pashan Lake, Pune  \n[D] Dal Lake, Srinagar \nCorrect Answer: C [Pashan Lake, Pune]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Himachal Pradesh has launched a Border Tourism initiative to promote sustainable tourism in tribal areas near the Indo-China border. The initiative will be inaugurated by Chief Minister Sukhvinder Singh Sukhu during his visit to Shipki-La village in Kinnaur district. It is developed with the Union Government to support inclusive growth in remote border areas. Domestic tourists and locals can now access sites in Kinnaur and Lahaul-Spiti like Shipki-La, Lepcha-La, Gue Monastery, and Chitkul.",
+        "output": "Question:18.Which state government has recently launched a Border Tourism initiative to promote sustainable tourism in tribal areas? \nOptions: \n[A] Himachal Pradesh  \n[B] Uttarakhand  \n[C] Arunachal Pradesh  \n[D] Sikkim \nCorrect Answer: A [Himachal Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "At the third United Nations Ocean Conference (UNOC3) in Nice, Paris, Union Earth Sciences Minister Jitendra Singh launched SAHAV, a digital ocean data portal to promote transparent and science-based ocean management. United Nations Ocean Conference (UNOC3) held from June 9–13, 2025, aims to support Sustainable Development Goal 14: Conserve and sustainably use oceans, seas, and marine resources.",
+        "output": "Question:19.What is the name of the digital ocean data portal launched by India at the third United Nations Ocean Conference? \nOptions: \n[A] SAMUDRA  \n[B] PRAKRITI  \n[C] SAHAV  \n[D] SURYA \nCorrect Answer: C [SAHAV]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "India’s first underwater museum and artificial coral reef will be created around the decommissioned warship Indian Naval Ship (INS) Guldar near Nivati Rocks in Sindhudurg district, Maharashtra. The project was virtually inaugurated by the Chief Minister of Maharashtra with strong support from the central government. It aims to promote marine conservation and tourism, offering activities like scuba diving and submarine tours in the future. INS Guldar, a 1,120-ton ship decommissioned in January 2024, has been handed over to Maharashtra Tourism Development Corporation.",
+        "output": "Question:20.Which state government has launched a project to convert INS Guldar into India’s first underwater museum? \nOptions: \n[A] Maharashtra  \n[B] Tamil Nadu  \n[C] Goa  \n[D] Kerala \nCorrect Answer: A [Maharashtra]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Scientists using the Cosmology Large Angular Scale Surveyor (CLASS) telescope have detected a faint 13-billion-year-old microwave signal. The Cosmology Large Angular Scale Surveyor (CLASS) telescope is located in Chile’s Atacama Desert. The signal comes from the Cosmic Dawn, the era when the first stars, black holes, and galaxies formed. Cosmic Dawn occurred between 50 million and one billion years after the Big Bang. This discovery helps scientists understand how early stars affected the universe’s structure and temperature. The recent detection gives valuable clues about the universe’s formation and the role of early cosmic objects.",
+        "output": "Question:21.Cosmology Large Angular Scale Surveyor (CLASS) telescope is located in which country? \nOptions: \n[A] Brazil  \n[B] Peru  \n[C] Chile  \n[D] Colombia \nCorrect Answer: C [Chile]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Ministry of Ayush hosted the global summit ‘Yoga Connect’ on 14th June 2025 at Vigyan Bhawan, New Delhi as a key event before the 11th International Day of Yoga (IDY). It was held in a hybrid format, with over 1,000 in-person participants and virtual attendees from top yoga institutions and wellness groups worldwide. The event was coordinated by the Central Council for Research in Yoga and Naturopathy (CCRYN), India’s main yoga research body.",
+        "output": "Question:22.Where was the “Yoga Connect 2025 global summit” held? \nOptions: \n[A] Chennai  \n[B] New Delhi  \n[C] Hyderabad  \n[D] Bhopal \nCorrect Answer: B [New Delhi]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Minority Affairs Minister Kiren Rijiju inaugurated the Lok Samvardhan Parv at Raj Ghat in New Delhi. The event showcases key government schemes under the vision of Sabka Saath, Sabka Vikas, Sabka Vishwas, Sabka Prayas. It focuses on the economic empowerment of minority communities, especially artisans and traditional craftspeople. The event includes an exhibition-cum-sale of crafts like Laakh Bangles, Blue Pottery, Banarasi Brocade, and more.",
+        "output": "Question:23.Which ministry has inaugurated the Lok Samvardhan Parv in New Delhi? \nOptions: \n[A] Ministry of Minority Affairs  \n[B] Ministry of Culture  \n[C] Ministry of Parliamentary Affairs  \n[D] Ministry of Home Affairs \nCorrect Answer: A [Ministry of Minority Affairs]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The United Nations High Commissioner for Refugees (UNHCR) released the Global Trends Report: Forced Displacement in 2024. Forced displacement means people are forced to leave their homes due to violence, disasters, persecution, or human rights violations. By the end of 2024, around 123.2 million people were forcibly displaced worldwide. Children made up 40% of this displaced population, showing a major humanitarian concern. Over one-third of all forcibly displaced persons were from Sudan, Syria, Afghanistan, or Ukraine. About 73.5 million people were internally displaced, meaning they stayed within their own country but had to flee their homes.",
+        "output": "Question:24.Which organization has released the Global Trends Report: Forced Displacement in 2024? \nOptions: \n[A] United Nations Development Programme (UNDP)  \n[B] World Bank  \n[C] United Nations High Commissioner for Refugees (UNHCR)  \n[D] United Nations Children’s Fund (UNICEF) \nCorrect Answer: C [United Nations High Commissioner for Refugees (UNHCR)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Jammu and Kashmir Government formed a Divisional Level Committee to monitor the Eco-Sensitive Zone around the Surinsar-Mansar Wildlife Sanctuary. This sanctuary is located in the Union Territory of Jammu and Kashmir and is named after the twin lakes Surinsar and Mansar. It spreads across Jammu, Udhampur, and Samba districts, with most of it lying in Jammu district.",
+        "output": "Question:25.Surinsar-Mansar Wildlife Sanctuary is located in which state/UT? \nOptions: \n[A] Himachal Pradesh  \n[B] Jammu and Kashmir  \n[C] Uttarakhand  \n[D] Delhi \nCorrect Answer: B [Jammu and Kashmir]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Global Wind Day is observed annually on 15 June to celebrate the role of wind energy in promoting clean and sustainable growth. In India, the Ministry of New and Renewable Energy (MNRE) is hosting a special event in Bengaluru to mark the occasion. The event will showcase India’s progress toward achieving 50 Gigawatts (GW) of wind energy capacity by March 2025. It will also highlight how wind energy supports rural development, creates green jobs, and strengthens climate resilience.",
+        "output": "Question:26.Global Wind Day is observed on which day every year? \nOptions: \n[A] 14 June  \n[B] 15 June  \n[C] 16 June  \n[D] 17 June \nCorrect Answer: B [15 June]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Lieutenant Commander Yashaswi Solankee, aged 27, became the first woman officer to be appointed as an Aide-de-Camp (ADC) to the President of India. The President usually has five ADCs — three from the Indian Army, and one each from the Indian Navy and Indian Air Force. Until now, no woman officer had ever served in this prestigious role. Solankee, from Bharuch in Gujarat, was selected in April 2025 and completed a month-long orientation. She received her aiguillette from President Droupadi Murmu after training. The ADC manages presidential schedules, attends all ceremonies, and serves as a 24/7 liaison with government and military.",
+        "output": "Question:27.Who has become the first woman officer to be appointed as an Aide-de-Camp (ADC) to the President of India? \nOptions: \n[A] Akshita Gupta  \n[B] Madhuri Kanitkar  \n[C] Yashaswi Solanki  \n[D] Prerna Deosthalee \nCorrect Answer: C [Yashaswi Solanki]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Hockey Unit of Tamil Nadu (HUTN) announced it will host the first Hockey India Masters Cup from June 18 to 27, 2025, at Mayor Radhakrishnan Stadium, Chennai. The tournament is for men above 40 years and women above 35 years. It will feature 12 men’s and 8 women’s teams, starting with group matches and ending with knockouts and finals. Famous former players like Olympian Sudha Chaudhari and Adam Sinclair will participate. Men’s teams are divided into 4 pools and women’s into 2 pools, with states like Haryana, Kerala, and Tamil Nadu taking part.",
+        "output": "Question:28.Which city is the host of Hockey India Masters Cup 2025? \nOptions: \n[A] Bhopal  \n[B] Bengaluru  \n[C] Hyderabad  \n[D] Chennai \nCorrect Answer: D [Chennai]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "As per the 2025 yearbook of Stockholm International Peace Research Institute (SIPRI), nine countries possess 12,241 nuclear weapons as of January 1, 2025. These countries are the United States (US), Russia, United Kingdom (UK), France, China, India, Pakistan, Israel, and North Korea. Russia has 5,459 and the US has 5,177 nuclear warheads, together holding around 90% of the global stockpile. China has 600, France 290, UK 225, India 180, Pakistan 170, Israel 90, and North Korea 50 warheads. Of the total, 9,614 warheads are in military stockpiles, and 3,912 are deployed on missiles or aircraft.",
+        "output": "Question:29.Which two countries have the largest number of nuclear weapons, as per the SIPRI Yearbook 2025? \nOptions: \n[A] France and United Kingdom  \n[B] Russia and United States  \n[C] China and India  \n[D] Israel and North Korea \nCorrect Answer: B [Russia and United States]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Indian Navy commissioned INS Arnala, the first Anti-Submarine Warfare Shallow Water Craft (ASW-SWC), at the Naval Dockyard in Visakhapatnam. This marks a big step in strengthening India’s coastal defence and underwater threat response. INS Arnala is the first of sixteen ASW-SWC class ships and is designed for subsurface surveillance, search and rescue, and low-intensity maritime missions. It has over 80% indigenous content and reflects the vision of Aatmanirbhar Bharat (self-reliant India).",
+        "output": "Question:30.What is the name of the first Anti-Submarine Warfare Shallow Water Craft (ASW-SWC) recently commissioned by the Indian Navy? \nOptions: \n[A] INS Kaveri  \n[B] INS Kiltan  \n[C] INS Arnala  \n[D] INS Kavaratti \nCorrect Answer: C [INS Arnala]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Indian gymnast Pranati Nayak won her third bronze medal in the women’s vault at the Asian Artistic Gymnastics Championships held in Jecheon, Korea, on 14 June 2025. The 30-year-old scored 13.666 and 12.866 in two attempts, totaling 13.466 to secure the bronze medal. She finished behind China’s Zhang Yihan (13.650) and Vietnam’s Nguyen Thi Quynh Nhu (13.583). Pranati had earlier won medals in 2019 and 2022. Another Indian gymnast, Protistha Samanta, finished fourth with a score of 13.016.",
+        "output": "Question:31.Pranati Nayak won which medal in women’s vault at the Asian artistic gymnastics championships in Jecheon, Korea? \nOptions: \n[A] Gold Medal  \n[B] Silver Medal  \n[C] Bronze Medal  \n[D] None of the Above \nCorrect Answer: C [Bronze Medal]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Chamundi Hills project in Karnataka has finally progressed under the Pilgrimage Rejuvenation and Spiritual Heritage Augmentation Drive (PRASHAD) scheme after years of delay. PRASHAD stands for Pilgrimage Rejuvenation And Spiritual Heritage Augmentation Drive. It was launched in 2014-15 by the Ministry of Tourism as a Central Sector Scheme. The scheme supports integrated development of pilgrimage and heritage destinations. It provides financial help to state governments and Union Territories for improving tourism infrastructure.",
+        "output": "Question:32.PRASHAD scheme was launched by which ministry? \nOptions: \n[A] Ministry of Culture  \n[B] Ministry of Tourism  \n[C] Ministry of Home Affairs  \n[D] Ministry of Science and Technology \nCorrect Answer: B [Ministry of Tourism]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "On June 16, 2025, Prime Minister Narendra Modi received the Grand Cross of the Order of Makarios III, Cyprus’s highest civilian honour. The award was conferred by Cyprus President Nikos Christodoulides during PM Modi’s visit to the country. The honour is named after the first President of Cyprus, Archbishop Makarios III, and represents strong bilateral ties. PM Modi dedicated the award to the 1.4 billion people of India and the friendship between India and Cyprus.",
+        "output": "Question:33.Which country recently honoured Prime Minister Narendra Modi with its highest civilian award, Order of Makarios III? \nOptions: \n[A] France  \n[B] Croatia  \n[C] Canada  \n[D] Cyprus \nCorrect Answer: D [Cyprus]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Indian Coast Guard (ICG) recently chaired the 137th meeting of the Offshore Security Coordination Committee (OSCC) in New Delhi. The committee frames policies, prepares contingency plans, and guides multiple agencies in securing offshore installations. Due to the growing offshore Oil and Natural Gas sector, the Indian Coast Guard’s role has expanded significantly. Indian Coast Guard (ICG), formed under the Coast Guard Act, 1978. It is an armed force under the Ministry of Defence.",
+        "output": "Question:34.Where was the 137th meeting of the Offshore Security Coordination Committee (OSCC) held? \nOptions: \n[A] New Delhi  \n[B] Chennai  \n[C] Hyderabad  \n[D] Bengaluru \nCorrect Answer: A [New Delhi]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Centre for Development of Telematics (C-DOT) recently launched the ‘Samarth’ Incubation Program to support startups in the Telecom and Information and Communication Technology (ICT) sector. C-DOT is an autonomous telecom research and development institution under the Department of Telecommunications (DoT), Government of India. The program offers financial grants, advanced technical resources, and expert guidance to help startups grow from idea stage to commercial success. It focuses on building sustainable and scalable business models.",
+        "output": "Question:35.Which institution has launched the ‘Samarth’ Incubation Program to support startups in the Telecom and ICT sector? \nOptions: \n[A] NITI Aayog  \n[B] Bharat Sanchar Nigam Limited (BSNL)  \n[C] Ministry of Electronics and Information Technology  \n[D] Centre for Development of Telematics (C-DOT) \nCorrect Answer: D [Centre for Development of Telematics (C-DOT)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "India’s largest automobile Gati Shakti Multi-Modal Cargo Terminal was inaugurated at Maruti Suzuki’s Manesar plant in Haryana. It is linked to Patli railway station by a 10 km dedicated rail line, part of the 121.7 km Haryana Orbital Rail Corridor developed by Haryana Rail Infrastructure Development Corporation (HRIDC). The terminal cost ₹800 crore, with ₹684 crore funded by HRIDC and the rest by Maruti Suzuki. It can load up to 4.5 lakh automobiles annually, making it one of the highest-capacity terminals in India.",
+        "output": "Question:36.Where was the country’s largest automobile Gati Shakti Multi-Modal Cargo Terminal recently inaugurated? \nOptions: \n[A] Haryana  \n[B] Gujarat  \n[C] Rajasthan  \n[D] Telangana \nCorrect Answer: A [Haryana]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Ministry of Education released the Performance Grading Index (PGI) 2.0 report for 2022–23 and 2023–24 to assess school education. Chandigarh secured the top rank while Meghalaya was ranked lowest. PGI 2.0 is an evidence-based tool to evaluate the performance of States and Union Territories in school education. PGI 2.0 has a total weightage of 1000 points spread over 73 indicators under two categories: Outcome and Governance & Management.",
+        "output": "Question:37.Which organization released the Performance Grading Index (PGI) 2.0 report to assess school education? \nOptions: \n[A] Pratham  \n[B] All India Council for Technical Education  \n[C] Ministry of Education  \n[D] University Grants Commission \nCorrect Answer: C [Ministry of Education]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "In Bihar, the 11th International Yoga Day is celebrated as ‘Yoga Sangam’ on 21st June in all government schools. The Education Department has instructed all District Education Officers to keep schools open despite the ongoing summer vacation. More than 70,000 government schools have received this directive for Yoga Day participation.",
+        "output": "Question:38.What is the name given to the International Yoga Day 2025 celebrations in Bihar? \nOptions: \n[A] Bihar Yoga Utsav  \n[B] Yog Shivir  \n[C] Yoga Sangam  \n[D] Yog Sammelan \nCorrect Answer: C [Yoga Sangam]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "According to the recently released Global Liveability Index 2025 by the Economist Intelligence Unit (EIU), the global average liveability score remained 76.1 out of 100, the same as last year. Copenhagen became the world’s most liveable city in 2025, ending Vienna’s three-year lead by scoring perfectly in stability, education, and infrastructure. Damascus continued to be the least liveable city globally. The Economist Intelligence Unit (EIU) assessed 173 cities using 30 indicators grouped into factors like stability, healthcare, culture, environment, education, and infrastructure. The index shows how comfortable and liveable each city is for its residents.",
+        "output": "Question:39.Which is the world’s most liveable city as per the Economist Intelligence Unit (EIU)’s Global Liveability Index 2025? \nOptions: \n[A] Zurich, Switzerland  \n[B] Copenhagen, Denmark  \n[C] Sydney, Australia  \n[D] Vienna, Austria \nCorrect Answer: B [Copenhagen, Denmark]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Ministry of Panchayati Raj recently signed an agreement with Bhashini under the Ministry of Electronics and Information Technology to remove language barriers and promote inclusion across Indian states. BHASHINI stands for BHASHa INterface for India. It is an artificial intelligence-powered language translation platform developed under the National Language Translation Mission by the Ministry of Electronics and Information Technology. It builds a National Public Digital Platform for language-based services using artificial intelligence and emerging technologies.",
+        "output": "Question:40.BHASHINI is an artificial intelligence-powered language translation platform developed by which ministry? \nOptions: \n[A] Ministry of Electronics and Information Technology  \n[B] Ministry of Science and Technology  \n[C] Ministry of Defence  \n[D] Ministry of Home Affairs \nCorrect Answer: A [Ministry of Electronics and Information Technology]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Veteran Indian hockey player Lalit Upadhyay has announced retirement after India’s last match in the European leg of the Federation Internationale de Hockey (FIH) Pro League 2024-25 against Belgium. He was part of India’s bronze medal-winning teams at both Tokyo 2020 and Paris 2024 Olympic Games. Lalit made his debut in the 2014 Hockey World Cup and played 183 senior matches, scoring 67 goals. Lalit received the Arjuna Award in 2021.",
+        "output": "Question:41.Lalit Upadhyay, who recently announced his retirement, is associated with which sports? \nOptions: \n[A] Hockey  \n[B] Football  \n[C] Boxing  \n[D] Badminton \nCorrect Answer: A [Hockey]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Ministry of Statistics and Programme Implementation (MoSPI) will conduct India’s first-ever Household Income Survey in 2026, as announced recently. A Technical Expert Group (TEG) led by economist Surjit Bhalla has been formed to guide survey methods, estimation techniques, and best global practices. The survey will measure household income and assess how technology adoption affects wages, aiming to fill key data gaps. Past attempts since the 1950s failed due to unreliable data, with income estimates often lower than consumption and savings combined.",
+        "output": "Question:42.What is the main objective of the India’s first-ever Household Income Survey? \nOptions: \n[A] To measure household income and assess the impact of technology on wages  \n[B] To measure agricultural output  \n[C] To measure inflation rates  \n[D] To estimate population growth \nCorrect Answer: A [To measure household income and assess the impact of technology on wages]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, India’s Group Captain Shubhanshu Shukla made history by piloting the Axiom-4 mission aboard SpaceX’s Dragon capsule from Kennedy Space Center, Florida. He became the first Indian in 41 years to cross the Kármán line after Rakesh Sharma’s spaceflight in 1984. Prime Minister Narendra Modi congratulated Shukla and called him the first Indian en route to the International Space Station (ISS). This marks a major milestone for India in human spaceflight and international space collaboration.",
+        "output": "Question:43.What is the name of the space mission piloted by India’s Group Captain Shubhanshu Shukla? \nOptions: \n[A] Axiom-4 mission  \n[B] Artemis-3  \n[C] Gaganyaan-1  \n[D] Dragonfly \nCorrect Answer: A [Axiom-4 mission]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, an encounter broke out on 26 June between terrorists and security forces in Bihali area of Basantgarh, Udhampur district, Jammu and Kashmir, during a joint operation by the Indian Army and Jammu and Kashmir Police. This incident occurred just ahead of the Amarnath Yatra, scheduled from 3 July to 8 August 2025, which draws thousands of pilgrims via Pahalgam and Baltal routes. The joint operation, named ‘Operation Bihali’, was launched based on specific intelligence, and contact was established with terrorists, according to the Indian Army’s White Knight Corps.",
+        "output": "Question:44.What is the name of the operation launched by the Indian Army and Jammu & Kashmir Police against terrorists ahead of the Amarnath Yatra 2025? \nOptions: \n[A] Operation Shakti  \n[B] Operation Vijay  \n[C] Operation Bihali  \n[D] Operation Sindhu \nCorrect Answer: C [Operation Bihali]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Union Minister of Ports, Shipping and Waterways (MoPSW), Sarbananda Sonowal, launched Sagarmala Finance Corporation Limited (SMFCL), India’s first Non-Banking Financial Company (NBFC) for the maritime sector. SMFCL was earlier known as Sagarmala Development Company Limited. It was formally registered with the Reserve Bank of India (RBI) on June 19, 2025. SMFCL aims to bridge financing gaps and provide sector-specific funding to ports, shipping companies, Micro Small and Medium Enterprises (MSMEs), startups, and maritime institutes.",
+        "output": "Question:45.What is the name of India’s first maritime Non-Banking Financial Company (NBFC), recently inaugurated by government? \nOptions: \n[A] Bharatiya Shipping Finance Corporation  \n[B] Sagarmala Finance Corporation Limited  \n[C] Maritime Infrastructure Finance Authority  \n[D] Port Development Finance Corporation \nCorrect Answer: B [Sagarmala Finance Corporation Limited]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Registrar General of India (RGI) asked all States to ensure that mothers receive birth certificates of newborns before being discharged from hospitals, especially government-run hospitals. The Registrar General of India was set up under the Ministry of Home Affairs and is also the Census Commissioner of India. The Registrar General of India mainly collects data on population size, growth, and distribution.",
+        "output": "Question:46.The Registrar General of India functions under which ministry? \nOptions: \n[A] Ministry of Social Justice and Empowerment  \n[B] Ministry of Defence  \n[C] Ministry of Law and Justice  \n[D] Ministry of Home Affairs \nCorrect Answer: D [Ministry of Home Affairs]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "International Micro, Small and Medium-sized Enterprises (MSMEs) Day is celebrated every year on 27 June. The day was declared by the United Nations in 2017 to honour the role of MSMEs. This year, the Ministry of Micro, Small and Medium Enterprises is celebrating it as ‘Udyami Bharat – MSME Day’ with the theme “Enhancing the role of MSMEs as drivers of Sustainable Growth and Innovation. India has over 6.3 crore MSMEs, contributing about 30% to the Gross Domestic Product (GDP) and over 45% to exports.",
+        "output": "Question:47.International Micro, Small and Medium-sized Enterprises (MSMEs) Day is celebrated every year on which day? \nOptions: \n[A] 26 June  \n[B] 27 June  \n[C] 28 June  \n[D] 29 June \nCorrect Answer: B [27 June]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Haryana government announced the launch of the Lado Lakshmi Scheme to support women from economically weaker sections. This scheme will give ₹2,100 every month to women from Below Poverty Line (BPL) families. The scheme is inspired by the existing Haryana Ladli Lakshmi Yojana to help financially poor women. Its goal is to empower women, improve their livelihoods, and reduce poverty and economic inequality in Haryana.",
+        "output": "Question:48.Which state government has introduced the Lado Lakshmi Scheme? \nOptions: \n[A] Haryana  \n[B] Uttar Pradesh  \n[C] Gujarat  \n[D] Bihar \nCorrect Answer: A [Haryana]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Despite orders from the National Green Tribunal (NGT), illegal salt pans and creek encroachments still threaten the Kharai camels of Kachchh. The Kharai camel is native to Gujarat and gets its name from “Khara,” meaning saline, showing its ability to survive in desert and coastal areas. It is unique for swimming over 3 kilometers in deep sea to graze on mangroves. The International Union for Conservation of Nature (IUCN) classifies them as endangered.",
+        "output": "Question:49.The Kharai camel is native to which state? \nOptions: \n[A] Gujarat  \n[B] Rajasthan  \n[C] Madhya Pradesh  \n[D] Haryana \nCorrect Answer: A [Gujarat]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Novo Nordisk launched its weight-loss injection semaglutide in India after Eli Lilly introduced tirzepatide. These are Glucagon-Like Peptide-1 (GLP-1) receptor agonists, which are drugs that copy the action of GLP-1, a gut hormone released after eating. GLP-1 helps control blood sugar, fat metabolism, and appetite in the body. These medicines usually come as injections, though oral forms are being developed. Semaglutide and tirzepatide are two leading GLP-1 Drugs. Semaglutide and tirzepatide transforming the treatment of obesity and diabetes in India.",
+        "output": "Question:50.GLP-1 Drug, that was recently seen in news, is used for the treatment of which disease? \nOptions: \n[A] Malnutrition  \n[B] Dengue  \n[C] Diarrhea  \n[D] Obesity \nCorrect Answer: D [Obesity]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Japan successfully launched a climate monitoring satellite on its H-2A rocket, which made its final flight before retiring. The H-2A lifted off from Tanegashima Space Center carrying the Global Observing Satellite for Greenhouse gases and Water cycle (GOSAT-GW) to track carbon, methane, and water cycles. The launch faced delays due to electrical issues but succeeded, marking the 50th mission of H-2A since 2001 with a 98% success rate. GOSAT-GW will soon share high-resolution data globally, including with the United States National Oceanic and Atmospheric Administration (NOAA).",
+        "output": "Question:1.Which country has recently launched a climate monitoring satellite on its H-2A rocket? \nOptions: \n[A] France  \n[B] Japan  \n[C] China  \n[D] India \nCorrect Answer: B [Japan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Ayush Shetty from Karnataka won the prestigious United States Open badminton title at Council Bluffs, Iowa, becoming the first Indian to win a men’s singles title there since Lakshya Sen’s 2023 Canada Open win. Ayush’s first international title followed consistent performances against top players like Loh Kean Yew and Kidambi Srikanth. Ayush earlier won a bronze at the 2023 World Junior Championships and was runner-up in other tournaments.",
+        "output": "Question:2.Which Indian player won the United States Open badminton title 2025? \nOptions: \n[A] Ayush Shetty  \n[B] Lakshya Sen  \n[C] HS Prannoy  \n[D] Chirag Shetty \nCorrect Answer: A [Ayush Shetty]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, India’s first wooden Gurdwara named Sri Nanak Niwas was built in Fazilka, Punjab, inside the police lines. The Gurdwara is crafted using Deodhar wood imported from Finland, known for its strength and resistance to moths, sunlight, and rain. A skilled carpenter from Ludhiana, who has experience building wooden homes abroad, carried out the construction work. This unique wooden shrine is seen as a heartfelt tribute to faith and the spirit of service, known as seva.",
+        "output": "Question:3.Where is India’s first wooden Gurudwara named Sri Nanak Niwas established? \nOptions: \n[A] Fazlika, Punjab  \n[B] Shimla, Himachal Pradesh  \n[C] Indore, Madhya Pradesh  \n[D] Dehradun, Uttarakhand \nCorrect Answer: A [Fazlika, Punjab]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Japan launched the Global Observing Satellite for Greenhouse gases and Water cycle (GOSAT-GW) from Tanegashima Space Centre. GOSAT-GW is an Earth observation satellite developed by the Japanese Aerospace Exploration Agency (JAXA). It was launched using the H-2A rocket. Its objectives are to monitor global-mean concentrations of Greenhouse Gases (GHGs), verify national anthropogenic GHG emissions inventories, and detect GHG emissions from large sources like megacities and power plants.",
+        "output": "Question:4.Which country has launched the Global Observing Satellite for Greenhouse gases and Water cycle (GOSAT-GW)? \nOptions: \n[A] China  \n[B] India  \n[C] Australia  \n[D] Japan \nCorrect Answer: D [Japan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Narcotics Control Bureau busted a huge international drug racket through the darknet under Operation MELON. Operation MELON led to the recovery of LSD blots, Ketamine, and cryptocurrency. LSD stands for Lysergic Acid Diethylamide, and Ketamine are highly potent hallucinogenic drugs. Hallucinogens are psychedelic substances that change how people see, hear, taste, smell, or feel, and can also affect mood and thoughts. Ketamine is not an opioid but acts as a N-Methyl-D-Aspartate (NMDA) receptor antagonist in the brain. Officials also found TAILS Operating System, a system designed for accessing darknet markets.",
+        "output": "Question:5.What is the name of the operation under which Narcotics Control Bureau (NCB) busted the darknet drug racket? \nOptions: \n[A] Operation APPLE  \n[B] Operation MELON  \n[C] Operation TIGER  \n[D] Operation STORM \nCorrect Answer: B [Operation MELON]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Bihar government launched the Chief Minister Guru-Shishya Parampara Scheme. Under this scheme, a monthly honorarium of ₹15,000 is given to the Guru (teacher). ₹7,500 per month is given to the musician. ₹3,000 per month is given to the disciples. The scheme supports teaching of nearly extinct folk tales, folk drama, folk dance, folk music, folk instruments, classical art, and painting. This step will help protect and revive folk arts that are on the verge of extinction. It aims to preserve Bihar’s rich cultural heritage for future generations.",
+        "output": "Question:6.Which state government has launched the Chief Minister Guru‑Shishya Parampara Yojana in July 2025? \nOptions: \n[A] Odisha  \n[B] Bihar  \n[C] Jharkhand  \n[D] Madhya Pradesh \nCorrect Answer: B [Bihar]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Reserve Bank of India (RBI) appointed Kesavan Ramachandran as Executive Director (ED) from July 1, 2025. As Executive Director, he will oversee the Department of Regulation (Prudential Regulation Division). Earlier, Kesavan was Principal Chief General Manager in the Risk Monitoring Department. He has over 30 years of experience in currency management, banking and non-banking supervision, training, and administration. He served as RBI’s nominee on the Board of Canara Bank for more than five years.",
+        "output": "Question:7.Who has been appointed as Executive Director (ED) of Reserve Bank of India (RBI) in July 2025? \nOptions: \n[A] Kesavan Ramachandran  \n[B] Rohit Jain  \n[C] Rabi Sankar  \n[D] Vikram Sinha \nCorrect Answer: A [Kesavan Ramachandran]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Assam’s Woolah Tea secured a patent for India’s first bagless tea. Woolah’s tea uses whole leaf bundles instead of conventional tea bags. It is made from compressed bundles of eti koli duti paat (one bud and two leaves) tied with a natural string. This design removes the need for traditional tea bags, stopping microplastics from entering tea. The founders filed for the patent in 2020.",
+        "output": "Question:8.Woolah Tea, which was recently secured patent for India’s first bagless tea, is primarily associated with which state? \nOptions: \n[A] Meghalaya  \n[B] Sikkim  \n[C] Assam  \n[D] Tripura \nCorrect Answer: C [Assam]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, India reached 50 percent enrolment in its Phase III clinical trial of the indigenous tetravalent dengue vaccine, DengiAll. DengiAll is developed by Panacea Biotec Limited under a licence from the National Institutes of Health (NIH), United States. It contains weakened forms of all four dengue virus subtypes, similar to the NIH vaccine except for inactive ingredients. The Indian Council of Medical Research (ICMR) is evaluating its safety and effectiveness through multiple institutes.",
+        "output": "Question:9.DengiAll is a vaccine developed for which disease? \nOptions: \n[A] Cholera  \n[B] Measles  \n[C] Dengue  \n[D] Tuberculosis \nCorrect Answer: C [Dengue]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, a report highlighted challenges in the PM-POSHAN (Pradhan Mantri Poshan Shakti Nirman) scheme , including fund delays, caste discrimination, and rising costs. PM-POSHAN, earlier called the Mid-Day Meal Scheme. It is run by the Ministry of Education to provide hot cooked meals. It covers 11.20 crore children in Balvatikas and Classes 1 to 8. The scheme operates across 10.36 lakh schools in India. It aims to fight hunger, improve nutrition, boost school attendance, and support classroom focus.",
+        "output": "Question:10.PM POSHAN Scheme is an initiative of which ministry? \nOptions: \n[A] Ministry of Women and Child Development  \n[B] Ministry of Education  \n[C] Ministry of Health and Family Welfare  \n[D] Ministry of Finance \nCorrect Answer: B [Ministry of Education]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Kerala Health Minister confirmed 425 people are on the Nipah virus contact list across the state. Nipah Virus (NiV) is an emerging zoonotic virus spreading from animals to humans. It can also spread through contaminated food or directly from person to person. Fruit bats from the Pteropodidae family are its natural hosts. NiV infection can be without symptoms, mild, or cause serious breathing illness and deadly brain swelling.",
+        "output": "Question:11.Which species is the natural host of “Nipah Virus” that was recently reported in Kerala? \nOptions: \n[A] Ant  \n[B] Fruit bat  \n[C] Mosquito  \n[D] Housefly \nCorrect Answer: B [Fruit bat]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The United Nations has declared 2025 as the International Year of Cooperatives. The world celebrated International Day of Cooperatives on 5th July 2025. The theme for International Cooperatives Day 2025 is “Cooperatives Build a Better World.” This theme shows how cooperatives solve global problems through inclusive decisions and grassroots action. Cooperatives help achieve the United Nations Sustainable Development Goals (SDGs) by 2030.",
+        "output": "Question:12.What is the theme for International Cooperatives Day 2025? \nOptions: \n[A] Cooperatives Build a Better World  \n[B] Cooperatives: Partners for Sustainable Development  \n[C] Cooperatives for building a people-centred  \n[D] Cooperatives for Climate Action \nCorrect Answer: A [Cooperatives Build a Better World]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the foundation stone for India’s first national cooperative university was laid in Anand, Gujarat. The university will be called Tribhuvan Sahkari University. It aims to fulfill the vision of strengthening India’s cooperative sector. The Union Minister of Cooperation and Home Affairs stressed adding cooperative education at the secondary school level. The university will teach technical skills, accounting, scientific methods, marketing, and cooperative values. It will fill a big gap in education, training, and innovation for the cooperative movement.",
+        "output": "Question:13.Where was the foundation stone for India’s first national cooperative university laid? \nOptions: \n[A] West Bengal  \n[B] Tamil Nadu  \n[C] Rajasthan  \n[D] Gujarat \nCorrect Answer: D [Gujarat]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Scientists recently discovered a new fish species named Pethia dibrugarhensis in the Brahmaputra River at Maijan in Dibrugarh, Assam. It belongs to the Cyprinidae family and is classified as a barb. It lives in moderately fast-flowing river stretches with mud, sand, and stone beds. It coexists with other small native fish species in the region. The fish has an incomplete lateral line. It shows a prominent black blotch on both the dorsal and ventral sides of the caudal peduncle. It lacks humeral marks and barbels, making it distinct from other species.",
+        "output": "Question:14.What is “Pethia dibrugarhensis” that was recently seen in news? \nOptions: \n[A] Fish  \n[B] Frog  \n[C] Spider  \n[D] Ant \nCorrect Answer: A [Fish]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "At the Asian Para-Archery Championships in Beijing, Paralympic gold medallist Harvinder Singh won individual gold in recurve men’s open. He defeated Hanreuchai Netsiri of Thailand with a score of 7-1 in the final. This marks Harvinder’s first individual gold at the Asian Para-Archery Championships after a six-year wait. He won three medals at the event — individual gold, mixed recurve gold with Bhawna, and men’s recurve team silver with Vivek Chikara. Harvinder is a two-time Paralympic medalist, showcasing consistent excellence in para-archery.",
+        "output": "Question:15.Harvinder Singh won which medal in the individual category at the Asian Para-Archery Championships 2025? \nOptions: \n[A] Gold  \n[B] Silver  \n[C] Bronze  \n[D] None of the Above \nCorrect Answer: A [Gold]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Vera C. Rubin Observatory (VRO) in Chile released its first images, capturing 10 million galaxies, 2,000+ new asteroids, and stars with changing brightness. It is located on Cerro Pachon Mountain, Northern Chile, at an altitude of 8,684 feet. VRO was formerly called the Large Synoptic Survey Telescope (LSST) and renamed in 2019 to honour Vera C. Rubin, who discovered dark matter evidence. It is funded by the U.S. National Science Foundation (NSF) and Department of Energy (DOE).",
+        "output": "Question:16.Vera C. Rubin Observatory (VRO) is located in which country? \nOptions: \n[A] Russia  \n[B] France  \n[C] Australia  \n[D] Chile \nCorrect Answer: D [Chile]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, sportspersons from Uttar Pradesh Police won the highest number of medals for India at the World Police and Fire Games 2025 held in Alabama, USA. The global event witnessed participation from police and fire personnel representing 63 countries. India ranked third in the overall medal tally with a total of 560 medals. Uttar Pradesh Police athletes secured 95 medals, including 45 gold, 34 silver, and 16 bronze. The medals were won in events like athletics, wrestling, shooting, weightlifting, and swimming.",
+        "output": "Question:17.Which state won the highest number of medals for India at the World Police and Fire Games 2025 held in Alabama, USA? \nOptions: \n[A] Bihar  \n[B] Uttarakhand  \n[C] Uttar Pradesh  \n[D] Haryana \nCorrect Answer: C [Uttar Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Defence Ministry called the Advanced Towed Artillery Gun System (ATAGS) project an “exemplary mission mode success”. Indigenously made ATAGS will replace vintage and smaller-calibre artillery guns in the Indian Army. ATAGS is a large-calibre gun system capable of firing future Long Range Guided Munitions (LRGM) with precision and deep strike. It has been designed and developed by Armament Research and Development Establishment (ARDE), a Pune-based lab under Defence Research and Development Organisation (DRDO).",
+        "output": "Question:18.Which organization developed the Advanced Towed Artillery Gun System (ATAGS)? \nOptions: \n[A] Bharat Electronics Limited (BEL)  \n[B] Defence Research and Development Organisation (DRDO)  \n[C] Hindustan Aeronautics Limited (HAL)  \n[D] Indian Space Research Organization (ISRO) \nCorrect Answer: B [Defence Research and Development Organisation (DRDO)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "In July 2025, Gujarat became the first Indian state to officially join the Cruise Bharat Mission. Cruise Bharat Mission is a central government initiative to build a globally competitive cruise tourism ecosystem. Gujarat’s move is a major step towards leading India’s maritime tourism sector. The state has a long 2,340 km coastline and navigable rivers like the Sabarmati and Narmada. Gujarat aims to become a global cruise tourism hub through this strategic alignment.",
+        "output": "Question:19.Which state has become first in India to join Cruise Bharat Mission? \nOptions: \n[A] Punjab  \n[B] Gujarat  \n[C] Jharkhand  \n[D] Haryana \nCorrect Answer: B [Gujarat]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Union Environment Ministry extended the validity of infrastructure projects approved under the 2011 Islands Protection Zone (IPZ) notification. IPZ was notified in 2011 under the Environment (Protection) Act, 1986 to protect island ecosystems. It aims to safeguard the ecological integrity of the Andaman & Nicobar Islands and Lakshadweep Islands. IPZ is similar to the Coastal Regulation Zone (CRZ), which applies to mainland coastal areas. It includes Island Coastal Regulation Zone (ICRZ) for major islands like North, Middle, South, and Little Andaman.",
+        "output": "Question:20.Islands Protection Zone (IPZ) is a regulatory framework to safeguard the ecological integrity of which regions? \nOptions: \n[A] Rameswaram Island and Majuli Island  \n[B] Andaman & Nicobar Islands and Lakshadweep Islands  \n[C] Daman Island  \n[D] Western Ghats \nCorrect Answer: B [Andaman & Nicobar Islands and Lakshadweep Islands]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "National Fish Farmers day is observed every year on 10 July. Recently, the Department of Fisheries under Ministry of Fisheries, Animal Husbandry and Dairying (MoFAH&D) announced that National Fish Farmers Day 2025 is celebrated on 10 July at ICAR-Central Institute of Freshwater Aquaculture (CIFA), Bhubaneswar. The day commemorates the 1957 achievement of Dr. Hiralal Chaudhury and Dr. K. H. Alikunhi in induced breeding of Indian Major Carps using hypophysation. It recognises fish farmers for enhancing food security, rural employment, and sustainable aquaculture. India’s fish production rose by 104% from 95.79 lakh tonnes in FY 2013-14 to 195 lakh tonnes in FY 2024-25.",
+        "output": "Question:21.National Fish Farmers day is observed every year on which day? \nOptions: \n[A] July 10  \n[B] July 11  \n[C] July 12  \n[D] July 13 \nCorrect Answer: A [July 10]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "India is preparing to launch the “Battery Passport” system for Electric Vehicles (EVs). The system will give EV owners detailed digital data about their battery’s source, composition, performance, lifecycle, and supply chain. This information will be embedded in a QR code attached to each battery. The battery passport will act like an Aadhaar ID for batteries, providing a unique identity and complete product details. It will help improve safety, quality standards, and India’s EV export potential. The system supports the upcoming battery-swapping policy by enabling QR-based battery verification.",
+        "output": "Question:22.What is the main objective of India’s Battery Passport system? \nOptions: \n[A] To track fuel consumption in EVs  \n[B] To calculate road tax for electric vehicles  \n[C] To provide digital information about EV batteries to owners  \n[D] To increase petrol vehicle sales \nCorrect Answer: C [To provide digital information about EV batteries to owners]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the government decided to bring the National Health Claims Exchange (NHCX) under joint supervision of the Ministry of Finance and the Insurance Regulatory and Development Authority of India (IRDAI). Earlier, National Health Claims Exchange (NHCX) was managed solely by the Ministry of Health and Family Welfare. National Health Claims Exchange (NHCX) was developed under the Ayushman Bharat Digital Mission (ABDM) by the National Health Authority (NHA) in consultation with IRDAI. It aims to streamline and standardize health insurance claim processing in India.",
+        "output": "Question:23.National Health Claims Exchange (NHCX) was developed under which mission by the National Health Authority? \nOptions: \n[A] Ayushman Bharat Digital Mission  \n[B] National Digital Health Mission  \n[C] Swasth Bharat Abhiyan  \n[D] National Urban Health Mission \nCorrect Answer: A [Ayushman Bharat Digital Mission]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Department of Telecommunications (DoT) launched the Sanchar Mitra Scheme nationwide to empower youth as digital ambassadors. The scheme targets student volunteers, called Sanchar Mitras, to spread awareness on telecom-related issues. Sanchar Mitras will educate people about digital safety, cyber fraud prevention, and Electromagnetic Field (EMF) radiation concerns. They will also promote responsible mobile usage and digital literacy. The scheme provides students exposure to advanced telecom technologies like 5G, 6G, Artificial Intelligence (AI), and Cyber Security.",
+        "output": "Question:24.Which government department has launched the Sanchar Mitra Scheme to empower youth as digital ambassadors? \nOptions: \n[A] Department of Posts (DoP)  \n[B] Department of Science and Technology (DST)  \n[C] Department of Telecommunications (DoT)  \n[D] Department of Scientific and Industrial Research (DSIR) \nCorrect Answer: C [Department of Telecommunications (DoT)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Next generation E10 Shinkansen bullet trains will be introduced simultaneously in India and Japan. In India, they will operate on the 508 km Mumbai-Ahmedabad Bullet Train Project. Shinkansen is Japan’s high-speed bullet train known for its safety, speed, and reliability. It is the world’s safest high-speed transport system with high volume and frequency.",
+        "output": "Question:25.Shinkansen is the name of which country’s high-speed bullet train system? \nOptions: \n[A] China  \n[B] France  \n[C] Germany  \n[D] Japan \nCorrect Answer: D [Japan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY) has completed 10 years of implementation in 2025. It was launched in 2015 by the Ministry of Skill Development and Entrepreneurship (MSDE) to promote skill development in India. Currently in its fourth phase, Pradhan Mantri Kaushal Vikas Yojana (PMKVY) 4.0 is part of the Central Sector Scheme of the Skill India Programme.",
+        "output": "Question:26.The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) scheme was launched by which ministry? \nOptions: \n[A] Ministry of Skill Development and Entrepreneurship  \n[B] Ministry of Science and Technology  \n[C] Ministry of Finance  \n[D] Ministry of Agriculture \nCorrect Answer: A [Ministry of Skill Development and Entrepreneurship]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "A new skill training and women entrepreneurship project under Pradhan Mantri Virasat Ka Samvardhan (PM VIKAS) Scheme launched on 17th July 2025 at Indian Institute of Information Technology (IIIT), Kottayam. It aims to train 450 minority candidates in Kerala with future-ready and entrepreneurial skills. PM VIKAS Scheme is a Central Sector Scheme launched by the Ministry of Minority Affairs. It focuses on skill development, leadership, and entrepreneurship training for minorities and artisan communities. The scheme aims to benefit around 9 lakh candidates during the 15th Finance Commission Cycle (2025–26).",
+        "output": "Question:27.Pradhan Mantri Virasat Ka Samvardhan (PM VIKAS) scheme was launched by which ministry? \nOptions: \n[A] Ministry of Home Affairs  \n[B] Ministry of Finance  \n[C] Ministry of Health and Family Welfare  \n[D] Ministry of Minority Affairs \nCorrect Answer: D [Ministry of Minority Affairs]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, citizens including local youth gathered at Akurdi to protest against the Pavana River rejuvenation project. The Pavana River is located in the western part of Maharashtra. It flows through Pune city and divides Pune and the Pimpri-Chinchwad area. The river originates from the Western Ghats, about 6 km south of Lonavala. It flows around 60 km before merging with the Mula River in Pune.",
+        "output": "Question:28.The Pavana River, that was recently seen in news, is located in which state? \nOptions: \n[A] Kerala  \n[B] Karnataka  \n[C] Gujarat  \n[D] Maharashtra \nCorrect Answer: D [Maharashtra]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, an Artificial Intelligence (AI)-based system with loudspeakers was installed in 20 villages near Tadoba-Andhari Tiger Reserve (TATR) to warn people about tiger movement. Tadoba-Andhari Tiger Reserve (TATR) is located in Chandrapur district, Maharashtra. It is the largest and oldest tiger reserve in Maharashtra. The name ‘Tadoba’ comes from the tribal god “Taru,” and ‘Andhari’ is from the Andhari River in the region. The reserve includes Tadoba National Park and Andhari Wildlife Sanctuary. It has corridor connections with Nagzira-Navegaon and Pench Tiger Reserves in Maharashtra.",
+        "output": "Question:29.Tadoba-Andhari Tiger Reserve (TATR) is located in which state? \nOptions: \n[A] Madhya Pradesh  \n[B] Maharashtra  \n[C] Karnataka  \n[D] Uttarakhand \nCorrect Answer: B [Maharashtra]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Goa government recently launched India’s first Roll-on/Roll-off (RoRo) ferry service on the Mandovi River. The ferry connects Chorao Island to Panaji, the capital city of Goa. It aims to boost inland waterway transport and reduce dependence on road traffic. The service will significantly cut down travel time for daily commuters. It offers easier and faster connectivity for locals and tourists visiting the island.",
+        "output": "Question:30.Which state government has launched India’s first RoRo ferry service? \nOptions: \n[A] Goa  \n[B] Gujarat  \n[C] Odisha  \n[D] West Bengal \nCorrect Answer: A [Goa]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industry, recently promoted the Trade Connect ePlatform at two major Business-to-Business (B2B) trade exhibitions. Trade Connect ePlatform is a digital initiative of Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industry. It aims to transform international trade for Indian exporters, especially Medium, Small and Medium Enterprises (MSMEs). It acts as a one-stop hub for international trade-related services and information. It connects exporters, MSMEs, and entrepreneurs with Indian Missions Abroad, Export Promotion Councils, and other government agencies.",
+        "output": "Question:31.Trade Connect ePlatform is an initiative of which ministry? \nOptions: \n[A] Ministry of Commerce and Industry  \n[B] Ministry of Finance  \n[C] Ministry of Electronics and Information Technology  \n[D] Ministry of Defence \nCorrect Answer: A [Ministry of Commerce and Industry]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Central Adoption Resource Authority (CARA) has issued new directions to all State Adoption Resource Agencies (SARAs) to institutionalise structured counselling across all stages of the adoption process. These directions are issued under the Juvenile Justice (Care and Protection of Children) Act, 2015 (amended in 2021) and align with the Adoption Regulations, 2022. CARA is a statutory body under the Ministry of Women and Child Development and acts as the central agency for adoption in India and abroad. The goal is to strengthen psychosocial support for prospective adoptive parents, adopted children, and biological parents.",
+        "output": "Question:32.Central Adoption Resource Authority (CARA) is a statutory body under which ministry? \nOptions: \n[A] Ministry of Health and Family Welfare  \n[B] Ministry of Home Affairs  \n[C] Ministry of Law and Justice  \n[D] Ministry of Women and Child Development \nCorrect Answer: D [Ministry of Women and Child Development ]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "From this year, the National Institutional Ranking Framework (NIRF) will give negative scores to institutions for research papers retracted in the last three years and their citations. This step aims to enhance accountability and research integrity. National Institutional Ranking Framework (NIRF) is an initiative of the Ministry of Education, Government of India. It was launched in 2015 to assess and rank higher education institutions.",
+        "output": "Question:33.National Institutional Ranking Framework (NIRF) was launched by which ministry? \nOptions: \n[A] Ministry of Education  \n[B] Ministry of Home Affairs  \n[C] Ministry of Tribal Affairs  \n[D] Ministry of Science and Technology \nCorrect Answer: A [Ministry of Education]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "In July 2025, India launched its first indigenously developed carbon fibre foot prosthesis named ADIDOC. ADIDOC stands for AIIMS Bibinagar – DRDL, DRDO Indigenously Developed Optimised Carbon Foot Prosthesis. It was jointly developed under Atmanirbhar Bharat by AIIMS Bibinagar (under Pradhan Mantri Swasthya Suraksha Yojana, PMSSY) and Defence Research and Development Laboratory (DRDL), Defence Research and Development Organisation (DRDO). The foot is biomechanically tested to bear up to 125 kg load and is designed for K3-level active users. It comes in three weight-based variants to meet individual user needs.",
+        "output": "Question:34.India’s first carbon fibre foot prosthesis was jointly developed by DRDO and which institution? \nOptions: \n[A] AIIMS Delhi  \n[B] AIIMS Bibinagar  \n[C] AIIMS Bhopal  \n[D] AIIMS Jodhpur \nCorrect Answer: B [AIIMS Bibinagar]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "England will host the World Test Championship (WTC) Finals in 2027, 2029, and 2031, as decided by the International Cricket Council (ICC). This was confirmed at the ICC Annual Conference held in Singapore in 2025. The decision rewards the England and Wales Cricket Board (ECB) for its success in hosting the 2021 and 2023 WTC Finals.",
+        "output": "Question:35.Which country is the host of World Test Championship Finals for 2027, 2029, and 2031? \nOptions: \n[A] Australia  \n[B] South Africa  \n[C] India  \n[D] England \nCorrect Answer: D [England]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Tanzania’s Vision 2050 was recently launched to address the climate crisis affecting the Great Ruaha River. The river is drying due to climate change and mismanagement, threatening agriculture, biodiversity, and livelihoods. The plan focuses on climate-smart agriculture, renewable energy, and fair land governance to restore the river’s health. Great Ruaha River is a major river in south-central Tanzania and a vital water source. It flows northeast through the Usangu wetlands, crosses the Usangu plains important for farming and livestock, and passes through Ruaha National Park.",
+        "output": "Question:36.Great Ruaha River, that was recently seen in news, is located in which country? \nOptions: \n[A] Rwanda  \n[B] Tanzania  \n[C] Kenya  \n[D] Egypt \nCorrect Answer: B [Tanzania]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The United Kingdom (UK) has opened its final 2025 visa ballot under the India Young Professionals Scheme for Indians aged 18–30 to live, work, or study in the UK for two years. The scheme was part of the India-UK Migration and Mobility Memorandum of Understanding (MoU) signed in May 2021 and announced during the G20 summit in Bali. It was officially launched in February 2023. It allows Indian citizens aged 18–30 with a bachelor’s degree or higher to live and work in the UK for up to two years.",
+        "output": "Question:37.What is the name of the scheme that allows young Indians to live, work, or study in the UK for up to 2 years? \nOptions: \n[A] India-UK Graduate Exchange Programme  \n[B] India Young Professionals Scheme  \n[C] UK-India Skilled Worker Visa  \n[D] UK-India Tourist Visa Plus \nCorrect Answer: B [India Young Professionals Scheme]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Scientists recently discovered two new species of wart sea slugs named Phyllidia ovata and Phyllidia fontjei in North Sulawesi, Indonesia. Sea slugs, also called Nudibranchs, are soft-bodied marine molluscs found in oceans worldwide. They belong to Phylum Mollusca and Class Gastropoda, resembling naked snails without shells. They live in coral reefs and feed on algae, sponges, and small invertebrates, making them key indicators of healthy coral ecosystems. Their bright colours warn predators due to toxicity, which they acquire from prey like jellyfish.",
+        "output": "Question:38.Phyllidia ovata and Phyllidia fontjei, that were recently seen in news, belongs to which species? \nOptions: \n[A] Sea slugs  \n[B] Spider  \n[C] Flowering plant  \n[D] Frog \nCorrect Answer: A [Sea slugs]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, a cruise liner with Israeli tourists was denied docking at Syros Island, Greece due to protests over the Gaza war, forcing it to reroute to Cyprus. Syros island is located in Greece, specifically within the Cyclades island group in the Aegean Sea. It lies 78 nautical miles (144 km) southeast of Athens, the capital of Greece.",
+        "output": "Question:39.Syros Island, that was recently seen in news, lies in which country? \nOptions: \n[A] France  \n[B] Greece  \n[C] Spain  \n[D] Indonesia \nCorrect Answer: B [Greece]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, NASA launched a twin satellite mission called TRACERS, which stands for Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites. The satellites were launched from Vandenberg Space Force Base, California, aboard a SpaceX Falcon 9 rocket. The mission aims to study magnetic reconnection, a powerful process where magnetic field lines snap and release energy. This process happens when solar wind, a stream of charged particles from the Sun, interacts with Earth’s magnetosphere (magnetic shield).",
+        "output": "Question:40.Which space organization has launched a twin satellite mission called “TRACERS” to study Earth’s magnetic shield? \nOptions: \n[A] European Space Agency (ESA)  \n[B] National Aeronautics and Space Administration (NASA)  \n[C] Japan Aerospace Exploration Agency (JAXA)  \n[D] Indian Space Research Organisation (ISRO) \nCorrect Answer: B [National Aeronautics and Space Administration (NASA)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Madhya Pradesh (MP) is leading in implementing the Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA). The Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA) is effectively implemented in 88 tribal blocks across 20 districts. This initiative empowers tribal communities to resolve disputes locally through traditional Chaupals, reducing reliance on police stations. In 2025, MP received national recognition from the Ministry of Panchayati Raj, featured in a special success stories booklet. More than 8,000 local disputes, including family and land issues, have been resolved through community-led justice.",
+        "output": "Question:41.Which state has become a national leader in implementing the Panchayats (Extension to Scheduled Areas) Act, 1996 (PESA)? \nOptions: \n[A] Rajasthan  \n[B] Gujarat  \n[C] Uttar Pradesh  \n[D] Madhya Pradesh \nCorrect Answer: D [Madhya Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Lantana camara, an invasive alien species, now infests about 3,25,282 hectares of forest land in Himachal Pradesh, threatening native biodiversity. It was introduced in India in the early 18th century as an ornamental plant and is native to Central and South America. Lantana camara releases allelochemicals, suppressing native plants and reducing biodiversity by forming dense bushy layers. It is spreading from lower to higher altitudes, worsening its ecological impact. Its biomass can be reused for furniture, fuelwood, compost, and vermicompost, promoting organic farming and reducing reliance on inorganic manure.",
+        "output": "Question:42.Lantana camara, an invasive alien species, is native to which region? \nOptions: \n[A] Central and South America  \n[B] Australia  \n[C] Central Africa  \n[D] South East Asia \nCorrect Answer: A [Central and South America]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "India’s first fully indigenous 50-kilowatt (kW) geothermal power plant will soon be set up in Arunachal Pradesh. The plant will come up in Tawang district to benefit over 5,000 people. It will operate at a record low temperature of just 68°C using bipolar process technology. The ₹10 crore project is funded by the Ministry of New and Renewable Energy (MNRE) and will be completed in three years. The Centre for Earth Sciences and Himalayan Studies (CESHS) and Shriram Institute for Industrial Research (SIIR) signed an MoU for it.",
+        "output": "Question:43.Where is the country’s first fully indigenous 50-kilowatt (kW) geothermal power plant being set up? \nOptions: \n[A] Sikkim  \n[B] Himachal Pradesh  \n[C] Arunachal Pradesh  \n[D] Meghalaya \nCorrect Answer: C [Arunachal Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Indian researchers identified a key gene in pineapple that can fight the deadly Fusariosis disease. Fusariosis is caused by the fungus Fusarium moniliforme and damages stems, blackens leaves, and rots fruits from inside. It leads to major losses in pineapple farming and makes harvests unreliable. Researchers from Bose Institute under Department of Science and Technology (DST) identified AcSERK3 gene (Somatic Embryogenesis Receptor Kinase). Overexpression of this gene boosted pineapple’s natural immunity.",
+        "output": "Question:44.Fusariosis disease, that was recently seen in news, is caused by which agent? \nOptions: \n[A] Bacteria  \n[B] Virus  \n[C] Fungus  \n[D] None of the Above \nCorrect Answer: C [Fungus]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the 3rd Empowered Committee (EC) Meeting under Pradhan Mantri Virasat Ka Samvardhan (PM VIKAS) scheme was held on 24th July 2025 in New Delhi. Pradhan Mantri Virasat Ka Samvardhan (PM VIKAS) is a flagship scheme of Ministry of Minority Affairs. It aims to uplift six notified minority communities: Muslims, Christians, Sikhs, Buddhists, Jains, and Zoroastrians (Parsis). The scheme merges five earlier schemes: Seekho Aur Kamao, Nai Manzil, Nai Roshni, USTTAD, and Hamari Dharohar. It supports socio-economic development through skilling, education, women leadership, entrepreneurship, and infrastructure development.",
+        "output": "Question:45.Pradhan Mantri Virasat Ka Samvardhan (PM VIKAS) is a flagship scheme of which ministry? \nOptions: \n[A] Ministry of Tribal Affairs  \n[B] Ministry of Finance  \n[C] Ministry of Rural Development  \n[D] Ministry of Minority Affairs \nCorrect Answer: D [Ministry of Minority Affairs]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Numbeo Safety Index 2025 ranked India at 67th with a safety score of 55.8. The Numbeo Safety Index is a real-time, user-based global ranking that reflects how safe people feel in their own countries. It considers factors like crime fear, crime incidents, and overall public safety perceptions. In 2025, the index covered 146 countries worldwide. Top countries in safety include Andorra (84.7), United Arab Emirates–UAE (84.5), Qatar (84.2), Taiwan (82.9), and Oman (81.7). These countries maintain high safety through strong law enforcement, political stability, and safety policies.",
+        "output": "Question:46.What is the rank of India in the Numbeo Safety Index 2025? \nOptions: \n[A] 55th  \n[B] 57th  \n[C] 64th  \n[D] 67th \nCorrect Answer: D [67th]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The 14th edition of India-Singapore Joint Military Exercise named Exercise Bold Kurukshetra 2025 began in Jodhpur on 27 July and will continue till August 4, 2025. It involves the 42 Singapore Armoured Regiment of the 4 Singapore Armoured Brigade and Indian Army’s Mechanised Infantry Regiment. The exercise will be a Table-Top Exercise and Computer-Based Wargame to validate operational procedures for mechanised warfare. It will end with an equipment display by the Indian Army. The aim is to enhance interoperability and joint training under the United Nations (UN) mandate.",
+        "output": "Question:47.Bold Kurukshetra is a joint military exercise conducted between India and which country? \nOptions: \n[A] Australia  \n[B] United States  \n[C] Singapore  \n[D] France \nCorrect Answer: C [Singapore]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Turkey has unveiled its most powerful conventional bomb, the Gazap, at the International Defence Industry Fair (IDEF) 2025 in Istanbul. The Gazap bomb weighs 970 kg and is designed for F-16 fighter jets. It disperses 10.16 fragment explosions per metre, up from the earlier standard of 3 metres. It is developed by the National Defence Ministry’s R&D centre, it increases Turkey’s airstrike power.",
+        "output": "Question:48.Which country has launched its most powerful conventional bomb, the Gazap? \nOptions: \n[A] China  \n[B] Japan  \n[C] Israel  \n[D] Turkey \nCorrect Answer: D [Turkey]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the “Buddha Samyak Darshan Museum and Memorial Stupa” was inaugurated on 29 July at Vaishaligarh in Vaishali district, Bihar. It was inaugurated by Chief Minister Nitish Kumar in presence of Buddhist monks from 15 countries. Built on 72 acres at a cost of over ₹550 crore, it aims to become a major spiritual and tourist landmark. It is India’s first modern stupa built entirely with stone, without cement or bricks. It is earthquake-resistant and built to last thousands of years.",
+        "output": "Question:49.Where was the “Buddha Samyak Darshan Museum and Memorial Stupa” inaugurated in Bihar? \nOptions: \n[A] Vaishali  \n[B] Madhubani  \n[C] Buxar  \n[D] Gaya \nCorrect Answer: A [Vaishali]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Jabalpur in Madhya Pradesh was approved to host India’s first Hindi-medium MBBS (Bachelor of Medicine and Bachelor of Surgery) college. The academic session will begin from 2027–28 with 50 MBBS seats initially. The decision was approved by the Executive Council of Madhya Pradesh Medical University. Hindi-translated textbooks already prepared will be used for teaching. Clinical training will be conducted at the existing government hospital. The college plans to expand further to offer MD (Doctor of Medicine) and MS (Master of Surgery) courses in Hindi. This initiative aims to remove language barriers in medical education.",
+        "output": "Question:50.Which city in Madhya Pradesh is the host of India’s first Hindi-medium MBBS college? \nOptions: \n[A] Indore  \n[B] Jabalpur  \n[C] Gwalior  \n[D] Bhopal \nCorrect Answer: B [Jabalpur]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Investor Education and Protection Fund Authority (IEPFA) launched the “Saksham Niveshak” campaign. It is a 100-day national drive running from 28th July to 6th November 2025. IEPFA works under the Ministry of Corporate Affairs. The campaign aims to help shareholders reclaim unclaimed dividends held by companies. It guides investors to update their Know Your Customer (KYC) and nomination details. Companies are encouraged to proactively contact shareholders to recover pending dividends.",
+        "output": "Question:1.Which institution has launched the “Saksham Niveshak” campaign? \nOptions: \n[A] Investor Education and Protection Fund Authority (IEPFA)  \n[B] Reserve Bank of India (RBI)  \n[C] Securities and Exchange Board of India (SEBI)  \n[D] National Bank for Agriculture and Rural Development (NABARD) \nCorrect Answer: A [Investor Education and Protection Fund Authority (IEPFA) ]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Ladakh declared August 12 as Safai Andolan Day to clean and conserve the Indus River. It marks the first-ever government-supported clean-up movement for the Indus River’s biodiversity conservation. The initiative involves collective efforts from Union Territory administration, Hill Councils, Indian Army, Indian Air Force, Paramilitary forces, Border Roads Organisation, NGOs, and students. It strengthens the ongoing Mission Indus Clean-Up Movement, launched by Leh Hill Council in June 2025.",
+        "output": "Question:2.Ladakh has declared which day as a Safai Andolan Day for the Indus River? \nOptions: \n[A] June 3  \n[B] August 12  \n[C] September 8  \n[D] October 12 \nCorrect Answer: B [August 12]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Odisha government announced plans to introduce tigers in Debrigarh Wildlife Sanctuary in Bargarh district. Debrigarh Wildlife Sanctuary is located near the Hirakud Dam on the Mahanadi River in Odisha. Hirakud Dam is the longest dam in India and the longest earthen dam in the world. It was declared a wildlife sanctuary in 1985.",
+        "output": "Question:3.Debrigarh Wildlife Sanctuary is located in which state? \nOptions: \n[A] Karnataka  \n[B] Odisha  \n[C] Jharkhand  \n[D] Madhya Pradesh \nCorrect Answer: B [Odisha]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, at Ramsar COP15 held at Victoria Falls, Zimbabwe, India introduced a resolution on ‘Promoting Sustainable Lifestyles for the Wise Use of Wetlands’. The resolution was adopted with support from 172 Ramsar Contracting Parties, 6 International Organisation Partners, and other observers. It highlights the importance of individual and societal choices in wetland conservation and promotes a pro-planet lifestyle. It urges countries to integrate lifestyle-based interventions into wetland policies, plans, and investments. The resolution calls for public-private collaboration, education at all levels, and awareness to promote wise use of wetlands.",
+        "output": "Question:4.What is the title of the resolution introduced by India at Ramsar CoP15 held in Zimbabwe? \nOptions: \n[A] Promoting Water Security for All  \n[B] Mission Wetland: A Clean Future  \n[C] Promoting Sustainable Lifestyles for the Wise Use of Wetlands  \n[D] Responsible Tourism and Wetlands Protection \nCorrect Answer: C [Promoting Sustainable Lifestyles for the Wise Use of Wetlands]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Deendayal Port Authority (DPA) commissioned India’s first Make-in-India 1 megawatt (MW) green hydrogen plant at Kandla Port, Gujarat. This is the first green hydrogen project at any Indian port and part of a planned 10MW facility. Union Minister of Ports, Shipping and Waterways Sarbananda Sonowal inaugurated the plant, calling it a “new benchmark” in green hydrogen execution. The plant was completed in just 4 months using fully indigenous technology and Indian engineers. The electrolyzer used is made in India, producing 140 metric tonnes of green hydrogen annually.",
+        "output": "Question:5.Where was India’s first ‘Make in India’ one megawatt green hydrogen plant commissioned? \nOptions: \n[A] Kandla Port (Deendayal Port Authority)  \n[B] Visakhapatnam Port  \n[C] Chennai Port  \n[D] Mumbai Port \nCorrect Answer: A [Kandla Port (Deendayal Port Authority)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, on 31 July 2025, warship Himgiri (Yard 3022) was delivered to the Indian Navy at Garden Reach Shipbuilders & Engineers (GRSE), Kolkata. It is the third ship of the Nilgiri Class under Project 17A (P17A) and the first built by GRSE. Project 17A frigates are multi-mission stealth warships designed for future maritime challenges. Himgiri revives the legacy of INS Himgiri, a Leander-class frigate decommissioned in 2005. It features advanced stealth, firepower, automation, and survivability",
+        "output": "Question:6.What is the name of the third ship of the Nilgiri Class (Project 17A) recently delivered to the Indian Navy? \nOptions: \n[A] Shivalik  \n[B] Himgiri  \n[C] Shivshakti  \n[D] Kaveri \nCorrect Answer: B [Himgiri]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "On 1 August 2025, the Union Government informed Lok Sabha that 13 river stretches in Gujarat are officially classified as polluted. Sabarmati River, especially the stretch between Raysan to Vautha, is the worst affected with a Biochemical Oxygen Demand (BOD) level of 292 mg/litre. Sabarmati River is a monsoon-fed, west-flowing river. It originates from the Aravalli Mountain Range in Udaipur district, Rajasthan. The river is called Wakal in its early course and flows southwest through Rajasthan and Gujarat. It empties into the Gulf of Khambhat in the Arabian Sea.",
+        "output": "Question:7.The Sabarmati River, which was recently in the news, originates from which mountain range? \nOptions: \n[A] Vindhya Range  \n[B] Satpura Range  \n[C] Western Ghats  \n[D] Aravalli Range \nCorrect Answer: D [Aravalli Range]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Kerala became the first state in India to implement faceless adjudication under State Goods and Services Tax (GST). The pilot project was launched today in two districts of Kerala. Faceless adjudication means all procedures are done digitally without any face-to-face interaction between taxpayers and GST officials. All steps including issuing show cause notices, receiving responses, and passing final orders will be done on an online platform. This move aims to ensure transparency, reduce corruption, and improve ease of doing business.",
+        "output": "Question:8.Which state has become the first in India to implement faceless adjudication under State Goods and Services Tax (GST)? \nOptions: \n[A] Gujarat  \n[B] Madhya Pradesh  \n[C] Kerala  \n[D] Maharashtra \nCorrect Answer: C [Kerala]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Union Government highlighted the progress of Pradhan Mantri National Dialysis Programme (PMNDP) in Parliament. It was launched on 7th April 2016 under the National Health Mission (NHM) to provide free dialysis services to poor patients. It has two components: Hemodialysis (HD) services and Peritoneal Dialysis (PD) services. As of 30th June 2025, the programme is running in all 36 States and Union Territories (UTs) across 751 districts. A total of 1,704 dialysis centres are operational under this programme. The Government of India has advised setting up HD centres in all district hospitals and later expanding to Community Health Centres (CHCs) at taluka level.",
+        "output": "Question:9.Pradhan Mantri National Dialysis Programme (PMNDP) was launched under which mission? \nOptions: \n[A] National Health Mission  \n[B] Pradhan Mantri Jan Arogya Yojana  \n[C] Ayushman Bharat  \n[D] Universal Health Coverage Scheme \nCorrect Answer: A [National Health Mission]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Scientists and tribal farmers from Northeast India urged the Central Government to include Mithun (Bos frontalis) under the National Livestock Mission (NLM). Mithun is a semi-domesticated bovine species native to Arunachal Pradesh, Nagaland, Manipur, Mizoram, and parts of Assam. India hosts 95% of the global mithun population, with 91% found in Arunachal Pradesh alone, as per the 2019 livestock census. Mithun is the state animal of both Arunachal Pradesh and Nagaland and holds ecological, economic, and cultural importance.",
+        "output": "Question:10.Which state has the highest population of Mithun (Bos frontalis), a semi-domesticated bovine species? \nOptions: \n[A] Nagaland  \n[B] Arunachal Pradesh  \n[C] Sikkim  \n[D] Assam \nCorrect Answer: B [Arunachal Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, Union Minister Nitin Gadkari received the 43rd Lokmanya Tilak National Award in Pune. The award was instituted in 1983 by the Tilak Smarak Mandir Trust. It is given annually on 1st August, the death anniversary of Lokmanya Tilak. The award honours individuals who have made extraordinary contributions to the progress and development of the nation. Lokmanya Tilak was born as Keshav Gangadhar Tilak and was a key figure in India’s freedom struggle. He was a nationalist, social reformer, and strong advocate of Swaraj or Self-Rule.",
+        "output": "Question:11.Who was honoured with the 43rd Lokmanya Tilak National Award 2025? \nOptions: \n[A] Nitin Gadkari  \n[B] Rajnath Singh  \n[C] Piyush Goyal  \n[D] Amit Shah \nCorrect Answer: A [Nitin Gadkari]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Russian President Vladimir Putin recently announced the start of production of the Oreshnik hypersonic missile. Russia plans to deploy the Oreshnik missile in Belarus by the end of 2025. Oreshnik is a Russian intermediate-range hypersonic ballistic missile named after the Russian word for “hazel tree.” It made its operational debut on November 21, 2024, in a precision strike on the Pivdenmash defence facility in Dnipro, Ukraine. The missile is mobile and uses solid fuel, enhancing its rapid deployment capability. It can reach speeds up to Mach 10, which is ten times the speed of sound.",
+        "output": "Question:12.Oreshnik is a hypersonic ballistic missile developed by which country? \nOptions: \n[A] China  \n[B] Germany  \n[C] Russia  \n[D] France \nCorrect Answer: C [Russia]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Punjab government has lifted the ban on traditional heritage sports in August 2025. These include bullock cart races, dog races, horse races, and pigeon racing. The ban was in place since 1997 due to concerns over animal cruelty. Chief Minister (CM) Bhagwant Mann announced the decision during a public event in Ludhiana. New legislation ensures these events will be conducted without cruelty to animals. The move aims to reconnect people with Punjab’s cultural identity and rural heritage.",
+        "output": "Question:13.Which state government has lifted the ban on traditional heritage sports in August 2025? \nOptions: \n[A] Punjab  \n[B] Haryana  \n[C] Uttar Pradesh  \n[D] Uttarakhand \nCorrect Answer: A [Punjab]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "On 2 August 2025, the Uttar Pradesh (UP) government launched a new initiative to convert cow dung from stray cattle into eco-friendly products. Around 54 lakh kg of cow dung is generated daily in the state. Products include bioplastics, bio-polymers, bio-textiles, paper, eco-friendly clothing, compost, biogas, and nanocellulose. The initiative supports the ‘Har Gaon Urja Kendra’ model for rural energy and self-reliance. It aims to reduce plastic pollution and promote organic farming and rural employment. Gau Seva Commission Chairman Shyam Bihari Gupta said it aligns with CM Yogi Adityanath’s rural development vision.",
+        "output": "Question:14.Which state government has launched a new initiative to convert cow dung from stray cattle into eco-friendly products? \nOptions: \n[A] Madhya Pradesh  \n[B] Haryana  \n[C] Uttar Pradesh  \n[D] Rajasthan \nCorrect Answer: C [Uttar Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Union Ministry of Home Affairs (MHA) recently approved the recruitment of 58,000 more personnel for the Central Industrial Security Force (CISF). This move prepares CISF for securing future industrial hubs in Left Wing Extremism (LWE)-affected areas. CISF is a Central Armed Police Force (CAPF) under the Ministry of Home Affairs, headquartered in New Delhi. CISF was established in 1969 through the CISF Act, 1968, with an initial strength of just three battalions. It was declared an Armed Force of the Union in 1983 after amending the Act.",
+        "output": "Question:15.The Central Industrial Security Force (CISF) functions under which Union Ministry? \nOptions: \n[A] Ministry of Defence  \n[B] Ministry of External Affairs  \n[C] Ministry of Finance  \n[D] Ministry of Home Affairs \nCorrect Answer: D [Ministry of Home Affairs]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "China and Russia began joint naval drills called “Joint Sea-2025” on August 3, 2025, in the Sea of Japan. The exercises aim to strengthen their strategic partnership and counter the United States-led global order. The drills are being held near the Russian port of Vladivostok. Operations include submarine rescue, anti-submarine, air defence, anti-missile, and maritime combat exercises. Four Chinese warships, including guided-missile destroyers Shaoxing and Urumqi, are participating with Russian ships.",
+        "output": "Question:16.Where was the China–Russia joint naval exercise “Joint Sea-2025” conducted? \nOptions: \n[A] Sea of Japan  \n[B] South China Sea  \n[C] Bering Sea  \n[D] East China Sea \nCorrect Answer: A [Sea of Japan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Seeds of seabuckthorn and Himalayan tartary buckwheat grown in Ladakh’s cold desert are part of NASA’s Crew-11 experiment on the International Space Station (ISS). The seeds were sourced by Indian space start-up Protoplanet based in Bengaluru. The mission launched on August 1, 2025, from Florida and docked at ISS on August 2, 2025. The experiment aims to test how seeds react to space stress and microgravity before germination. It focuses on gene activation and metabolic processes vital for space agriculture. Himalayan tartary buckwheat and seabuckthorn are rich in nutrients and suitable for long-duration space missions.",
+        "output": "Question:17.Which two crops from Ladakh are part of NASA’s Crew-11 experiment on the International Space Station (ISS)? \nOptions: \n[A] Barley and maize  \n[B] Seabuckthorn and Himalayan tartary  \n[C] Mizuna mustard and Black eyed pea  \n[D] None of the Above \nCorrect Answer: B [Seabuckthorn and Himalayan tartary]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Bengaluru topped in India in the 2025 Global Artificial Intelligence (AI) City Index, ranked 26th globally. It is the top AI hub in India, known for AI Research and Development (R&D) and data centers. Bengaluru attracts major foreign investment due to its strong startup ecosystem. Other top Indian cities include Mumbai, Delhi, Chennai, and Kolkata. Indian cities need a clear AI roadmap and strong regulations to grow further. Globally, Singapore ranked 1st, followed by Seoul, Beijing, Dubai, and San Francisco. The 2025 Global Artificial Intelligence (AI) City Index is released by Counterpoint Research, a global technology market research firm.",
+        "output": "Question:18.Which Indian city has secured the highest rank in the Global Artificial Intelligence (AI) City Index 2025? \nOptions: \n[A] Mumbai  \n[B] Delhi  \n[C] Bengaluru  \n[D] Chennai \nCorrect Answer: C [Bengaluru]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "A South African university launched a unique anti-poaching campaign by injecting radioactive isotopes into rhino horns. The initiative is called the Rhisotope Project and is led by the University of the Witwatersrand. It is supported by the International Atomic Energy Agency (IAEA). Recently, five rhinos were injected with radioactive isotopes in the Waterberg Biosphere Reserve, South Africa. South Africa has lost more than 10,000 rhinos to poaching in the past decade, making the step urgently needed. Radioisotopes are unstable elements that emit radiation to become stable and can be traced. The isotopes are injected through a non-invasive method and are safe for rhinos.",
+        "output": "Question:19.Which country has launched the Rhisotope Project to combat rhino poaching? \nOptions: \n[A] South Africa  \n[B] India  \n[C] Kenya  \n[D] Australia \nCorrect Answer: A [South Africa]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "National Medicinal Plants Board (NMPB), under Ministry of AYUSH, signed 2 important Memorandums of Understanding (MoUs) in New Delhi. First MoU was between National Medicinal Plants Board (NMPB) and IshVed-Bioplants Venture, Pune, Maharashtra. It aims to conserve rare, endangered, and threatened (RET) medicinal plants through tissue culture methods. Second MoU was a tripartite agreement among NMPB, All India Institute of Ayurveda (AIIA), and All India Institute of Medical Sciences (AIIMS), New Delhi. It aims to set up a National Medicinal Plants Garden in AIIMS to promote public awareness and knowledge sharing. NMPB was established in 2000 and functions under the Ministry of AYUSH.",
+        "output": "Question:20.National Medicinal Plants Board (NMPB) functions under which ministry? \nOptions: \n[A] Ministry of Health and Family Welfare  \n[B] Ministry of Environment, Forest and Climate Change  \n[C] Ministry of AYUSH  \n[D] Ministry of Science and Technology \nCorrect Answer: C [Ministry of AYUSH]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "India has achieved a record-low price of ₹55.75/kg for Green Ammonia in the first Solar Energy Corporation of India (SECI) auction. This milestone was achieved under the Strategic Interventions for Green Hydrogen Transition (SIGHT) Scheme. The scheme is a flagship financial component of the National Green Hydrogen Mission. The scheme aims to scale up green hydrogen production and use in India. It seeks to make green hydrogen cost-competitive with fossil fuels. It also focuses on creating domestic demand in key sectors like industry and transport.",
+        "output": "Question:21.SIGHT scheme is a subcomponent of which national mission? \nOptions: \n[A] National Solar Mission  \n[B] National Green Hydrogen Mission  \n[C] National Electric Mobility Mission  \n[D] National Wind Energy Mission \nCorrect Answer: B [National Green Hydrogen Mission]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "A significant deposit of Nickel, Copper, and Platinum Group Elements (Ni-Cu-PGE) has been discovered in Bhalukona-Jamnidih block, Basna tehsil, Mahasamund district, Chhattisgarh. Deccan Gold Mines Limited (DGML) received a 30 sq km Composite Licence for the block on April 1, 2024. The discovery supports Atmanirbhar Bharat by securing critical mineral resources for self-reliance and sustainable development. The Geological Survey of India (GSI) earlier found traces of nickel, chromium, later validated by the Directorate of Geology and Mining (DGM). Chhattisgarh has auctioned 51 mineral blocks, including 10 with key resources like lithium and graphite, and set up a Critical Mineral Cell to boost innovation and collaboration.",
+        "output": "Question:22.Where was a deposit of Nickel, Copper, and Platinum Group Elements (Ni-Cu-PGE) discovered in Chhattisgarh recently? \nOptions: \n[A] Mahasamund  \n[B] Durg  \n[C] Bastar  \n[D] Raipur \nCorrect Answer: A [Mahasamund]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Indian Council of Medical Research (ICMR) launched the ICMR-SHINE Initiative (Science & Health Innovation for the Nextgen Explorers) on 8th August 2025. It is a nationwide student outreach program for Classes 9 to 12. The aim is to ignite scientific curiosity, foster innovation, and inspire future health researchers. For the first time, all ICMR institutes will host simultaneous interactive educational activities across India. The program aligns with the Prime Minister’s call for “One Day as a Scientist” announced in February 2025 Mann Ki Baat. It commemorates the birth anniversary of Prof. V. Ramalingaswami, a pioneer in Indian medical research.",
+        "output": "Question:23.Which organisation has launched the SHINE Initiative (Science & Health Innovation for the Nextgen Explorers)? \nOptions: \n[A] Department of Biotechnology (DBT)  \n[B] Council of Scientific and Industrial Research (CSIR)  \n[C] Indian Council of Medical Research (ICMR)  \n[D] Ministry of Health and Family Welfare \nCorrect Answer: C [Indian Council of Medical Research (ICMR)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Geological Survey of India (GSI) discovered huge gold deposits in Mahgawan Keolari area of Sihora tehsil, Jabalpur district, Madhya Pradesh. Samples confirmed the presence of gold along with valuable metals like iron, manganese, and copper. The deposits span about 100 hectares and are estimated to be in lakhs of tonnes. This is the first gold discovery in Jabalpur, which is already known for iron, manganese, and limestone exports. Earlier, gold was found in Katni, Madhya Pradesh.",
+        "output": "Question:24.Recently, the Geological Survey of India (GSI) discovered huge gold deposits in which district of Madhya Pradesh? \nOptions: \n[A] Jabalpur  \n[B] Rewa  \n[C] Balaghat  \n[D] Gwalior \nCorrect Answer: A [Jabalpur]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, a sudden landslide at the under-construction Vishnugad Pipalkoti Hydroelectric Project in Helang, Chamoli, Uttarakhand injured 12 workers, with 4 critically hurt. It is located is on the Alaknanda River, a major tributary of the Ganga River, in Chamoli district, Uttarakhand. It is a 444-megawatt run-of-river scheme expected to generate 1,665 gigawatt-hours of electricity annually.",
+        "output": "Question:25.Vishnugad Pipalkoti Hydroelectric Project is located in which state? \nOptions: \n[A] Odisha  \n[B] Uttarakhand  \n[C] Himachal Pradesh  \n[D] Madhya Pradesh \nCorrect Answer: B [Uttarakhand]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Ministry of Law and Justice launched the Notary Portal to provide online services under the Notaries Act, 1952 and Notaries Rules, 1956. It connects Notaries appointed by the Central Government with the Government of India for various services. The portal ensures a faceless, paperless, transparent, and efficient system. Currently, modules for eligibility verification and issuance of digitally signed Certificates of Practice to new Notaries are live. As of 31 July 2025, over 34,900 such certificates have been issued across States and Union Territories. This information was shared by Minister of Law and Justice Arjun Ram Meghwal in the Rajya Sabha.",
+        "output": "Question:26.Notary Portal was launched by which ministry? \nOptions: \n[A] Ministry of Law and Justice  \n[B] Ministry of Finance  \n[C] Ministry of Commerce and Industry  \n[D] Ministry of Tribal Affairs \nCorrect Answer: A [Ministry of Law and Justice]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Third United Nations Conference on Landlocked Developing Countries (LLDC3) was held in Awaza, Turkmenistan from 5–8 August under the theme “Driving Progress through Partnerships.” It addressed challenges faced by 32 landlocked developing countries (LLDCs) with over 600 million people. LLDCs represented 7% of the world’s population but only about 1% of the global economy and trade. The conference aimed to unlock development potential through cooperation, trade facilitation, and infrastructure investment. The Awaza Programme of Action (APoA) 2024–2034 was adopted to tackle trade, infrastructure, climate resilience, and financing barriers.",
+        "output": "Question:27.Where was the third United Nations Conference on Landlocked Developing Countries (LLDC3) 2025 held? \nOptions: \n[A] Thimphu, Bhutan  \n[B] Almaty, Kazakhstan  \n[C] Baku, Azerbaijan  \n[D] Awaza, Turkmenistan \nCorrect Answer: D [Awaza, Turkmenistan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Uttar Pradesh Cabinet, led by Yogi Adityanath, launched the “Bharat Ratna Shri Atal Bihari Vajpayee-Chevening Uttar Pradesh State Government Scholarship Scheme.” It will support meritorious students from Uttar Pradesh to pursue higher education in the United Kingdom (UK). Five outstanding students will receive scholarships annually to study a one-year master’s degree at reputed UK universities. The scheme is a joint collaboration between the Government of Uttar Pradesh and the UK’s Foreign, Commonwealth and Development Office (FCDO). The scheme starts in the academic year 2025-26 and runs for three years until 2027-28, with possible extension upon review by March 30, 2028.",
+        "output": "Question:28.Which state government has launched the Atal Bihari Vajpayee-Chevening Scholarship scheme for higher education in United Kingdom? \nOptions: \n[A] Rajasthan  \n[B] Uttar Pradesh  \n[C] Madhya Pradesh  \n[D] Gujarat \nCorrect Answer: B [Uttar Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "IndiaAI Independent Business Division (IBD) and National Cancer Grid (NCG) launched the Cancer AI & Technology Challenge (CATCH) Grant Program. The program supports Artificial Intelligence (AI) solutions for cancer screening, diagnostics, treatment support, and healthcare operations in India. Grants of up to ₹50 lakh per project will be co-funded by IndiaAI and NCG for selected technology–clinical teams.",
+        "output": "Question:29.Which organisation launched the Cancer AI & Technology Challenge (CATCH) Grant Program along with the National Cancer Grid (NCG)? \nOptions: \n[A] Indian Council of Medical Research (ICMR  \n[B] IndiaAI Independent Business Division (IBD)  \n[C] All India Institute of Medical Sciences (AIIMS) New Delhi  \n[D] None of the Above \nCorrect Answer: B [IndiaAI Independent Business Division (IBD)]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Satnavri, a village of 1,800 people in rural Nagpur, Maharashtra, was chosen as India’s first ‘smart intelligent village’ under a state-backed pilot project approved by Chief Minister Devendra Fadnavis. The project was launched last month to integrate technologies like drone-assisted farming, smart irrigation, mobile banking, digitised schools, and advanced surveillance. It was conceptualised by the Voice of Indian Communication Technology Enterprises (VOICE) with domestic technology associations. Satnavri was selected for its small size, strong connectivity, and readiness for upgrades.",
+        "output": "Question:30.Which village in Maharashtra has been chosen as India’s first smart intelligent village? \nOptions: \n[A] Bamhani  \n[B] Satnavri  \n[C] Kuhi  \n[D] Kondhali \nCorrect Answer: B [Satnavri]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Union Minister of State for Science & Technology Jitendra Singh inaugurated India’s first ‘Animal Stem Cell Biobank’ at National Institute of Animal Biotechnology (NIAB), Hyderabad. NIAB is under Department of Biotechnology’s Biotechnology Research Innovation Council (BRIC). The Biobank will store high-quality stem cells from various animal species and supply cost-effective culture media to veterinary clinics, research bodies, and industry.",
+        "output": "Question:31.Where was India’s first ‘Animal Stem Cell Biobank’ inaugurated? \nOptions: \n[A] Bengaluru  \n[B] Chennai  \n[C] Hyderabad  \n[D] New Delhi \nCorrect Answer: C [Hyderabad]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Hiromasa Urakawa, a 28-year-old Japanese boxer, died from brain injuries sustained in a fight in Tokyo. He was knocked out in the eighth round against Yoji Saito on August 2 and later died after surgery for subdural haematoma, a bleeding between the skull and brain. This comes after Shigetoshi Kotari also died from similar injuries in the same event at Korakuen Hall. The Japan Boxing Commission reduced all Oriental and Pacific Boxing Federation (OPBF) title fights from 12 to 10 rounds. Urakawa is the third high-profile boxing death in 2025, after Irish boxer John Cooney’s death from intracranial haemorrhage in February.",
+        "output": "Question:32.Hiromasa Urakawa, the boxer who recently passed away, belonged to which country? \nOptions: \n[A] Vietnam  \n[B] China  \n[C] Malaysia  \n[D] Japan \nCorrect Answer: D [Japan]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, the Colorado River faces a severe water crisis as its flow declines, causing disputes over future water rights. It is a major North American river, originating in the Rocky Mountains of Colorado, United States. It flows 1,450 miles (2,330 kilometres) west and south into the Gulf of California, Mexico. The river passes through seven U.S. states and two Mexican states, serving over 40 million people. It drains vast arid and semi-arid regions and is called the “Lifeline of the Southwest.”",
+        "output": "Question:33.Colorado River, that was recently seen in news, is a major river of which continent? \nOptions: \n[A] Africa  \n[B] South America  \n[C] North America  \n[D] Australia \nCorrect Answer: C [North America]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "International Youth Day is celebrated globally every year on August 12 to recognize youth contributions, challenges, and potential. It was first proposed in 1991 at the World Youth Forum in Vienna, Austria. The World Conference of Ministers Responsible for Youth declared August 12 as International Youth Day in 1999. The United Nations General Assembly endorsed it in December 1999. The first celebration was held on August 12, 2000. The 2025 theme is “Local Youth Actions for the Sustainable Development Goals (SDGs) and Beyond.”",
+        "output": "Question:34.What is the theme of International Youth Day 2025? \nOptions: \n[A] Local Youth Actions for the SDGs and Beyond  \n[B] Green Skills for Youth  \n[C] Intergenerational Solidarity  \n[D] Transforming Food Systems \nCorrect Answer: A [Local Youth Actions for the SDGs and Beyond]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Pfizer recently launched its 20-valent pneumococcal conjugate vaccine (PCV20) for adults in India. PCV20 protects against 20 serotypes causing most pneumococcal diseases. Pneumococcal disease is caused by the bacterium Streptococcus pneumoniae. It can cause mild infections like ear infections and severe ones like pneumonia, meningitis, and bloodstream infections. Around 90 serotypes exist globally; few cause most diseases. It is a major global health issue, especially affecting young children and the elderly in developing countries.",
+        "output": "Question:35.Pneumococcal disease, that was recently seen in news, is caused by which agent? \nOptions: \n[A] Virus  \n[B] Bacteria  \n[C] Fungus  \n[D] Protozoa \nCorrect Answer: B [Bacteria]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Karnataka launched KATALYST, an Ease of Doing Business (EoDB) cell, to support Global Capability Centers (GCCs) under the GCC Policy 2024-29. It will act as a single-window platform to streamline investments and fast-track approvals. Announcement was made during Bengaluru Tech Summit (BTS) 2025. Karnataka contributes 44% of India’s software exports and aims to add 500 GCCs by 2029, creating 3.5 lakh jobs and generating $50 billion output.",
+        "output": "Question:36.Which state government has launched KATALYST, an Ease of Doing Business (EoDB) cell, to support Global Capability Centers (GCCs)? \nOptions: \n[A] Maharashtra  \n[B] Karnataka  \n[C] Odisha  \n[D] Kerala \nCorrect Answer: B [Karnataka]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The Bibi Fatima Women’s Self-Help Group (SHG) from Dharwad district won the Equator Initiative Award 2025. The award is presented every two years by the United Nations Development Programme (UNDP) under the Equator Initiative. It supports Indigenous Peoples and local communities in tackling land degradation, conserving biodiversity, and improving livelihoods. The award is often called the Nobel Prize for Biodiversity Conservation. Bibi Fatima SHG introduced millet-based mixed cropping on rainfed farms. They promoted climate-resilient farming, livestock rearing, horticulture, and popularised millets.",
+        "output": "Question:37.Which Indian group won the UNDP Equator Initiative Award 2025? \nOptions: \n[A] Alli Self Help Group  \n[B] Chamoli Self Help Group  \n[C] Gram Chetna Self Help Group  \n[D] Bibi Fatima Self-Help Group \nCorrect Answer: D [Bibi Fatima Self-Help Group ]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, an expert panel of the Union Ministry of Environment, Forest and Climate Change recommended environmental clearance for the 3,087 Megawatt (MW) Etalin Hydroelectric Project. Etalin is a large run-of-river hydro project on the Dri and Tangon Rivers in Arunachal Pradesh’s Dibang Valley. The Dri River meets Mathun, then joins Tangon near Etalin village, after which it is called the Dibang River. The project will build concrete gravity dams to divert water through two separate waterway systems.",
+        "output": "Question:38.Etalin Hydroelectric Project is located in which state? \nOptions: \n[A] Arunachal Pradesh  \n[B] Assam  \n[C] Nagaland  \n[D] Tripura \nCorrect Answer: A [Arunachal Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The government recently approved four new semiconductor manufacturing projects in Odisha, Punjab, and Andhra Pradesh under the India Semiconductor Mission (ISM). India Semiconductor Mission (ISM) is a specialized and independent institution operates under the guidance of Ministry of Electronics and Information Technology (MeitY). It operates as a business division within the Digital India Corporation. It aims to create a strong semiconductor and display ecosystem, making India a global hub for electronics manufacturing and design.",
+        "output": "Question:39.India Semiconductor Mission (ISM) operates under which ministry? \nOptions: \n[A] Ministry of Science and Technology  \n[B] Ministry of Electronics and Information Technology  \n[C] Ministry of Commerce and Industry  \n[D] Ministry of Heavy Industries \nCorrect Answer: B [Ministry of Electronics and Information Technology]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Recently, concern was raised that despite the huge human and economic toll of Chagas disease, investment in research and development of diagnostics, medicines, and vaccines remains disproportionately low. Chagas disease, or American trypanosomiasis, is caused by the protozoan parasite Trypanosoma cruzi. It spreads mainly through blood-sucking triatomine bugs, also called reduviid or “kissing bugs,” which often bite the face. Infection occurs when parasite-containing feces of the bug enter the body. It can also spread from mother to child, contaminated food or drinks, blood transfusions, organ transplants, or lab accidents. The disease is common in South America, Central America, and Mexico.",
+        "output": "Question:40.Chagas disease, that was recently seen in news, is caused by which agent? \nOptions: \n[A] Virus  \n[B] Bacteria  \n[C] Fungus  \n[D] Protozoa \nCorrect Answer: D [Protozoa]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The government recently approved four new semiconductor manufacturing projects in Odisha, Punjab, and Andhra Pradesh under the India Semiconductor Mission (ISM). India Semiconductor Mission (ISM) is a specialized and independent institution operates under the guidance of Ministry of Electronics and Information Technology (MeitY). It operates as a business division within the Digital India Corporation. It aims to create a strong semiconductor and display ecosystem, making India a global hub for electronics manufacturing and design.",
+        "output": "Question:41.India Semiconductor Mission (ISM) operates under which ministry? \nOptions: \n[A] Ministry of Science and Technology  \n[B] Ministry of Electronics and Information Technology  \n[C] Ministry of Commerce and Industry  \n[D] Ministry of Heavy Industries \nCorrect Answer: B [Ministry of Electronics and Information Technology]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Scientists recently discovered possible artefacts of the oldest known Wallacean hominids on Sulawesi island, Indonesia. Earlier, Homo erectus in Wallacea were believed to have settled only on Flores and Luzon islands about 1.02 million years ago. They were thought incapable of long-distance sea travel, making the Sulawesi discovery important for migration theories. Archaeologists from Australia and Indonesia found small, chipped tools in Soppeng, South Sulawesi, used for cutting small animals and carving rocks. Wallacea is a region in Eastern Indonesia, including Sulawesi, Lombok, Flores, Timor, and Sumbawa.",
+        "output": "Question:42.Where were the possible artefacts of the oldest known Wallacean hominids recently found? \nOptions: \n[A] Redang Island, Malaysia  \n[B] Lakshadweep Island, India  \n[C] Sulawesi Island, Indonesia  \n[D] Siargao Island, Philippines \nCorrect Answer: C [Sulawesi Island, Indonesia]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "A Kerala tourist miraculously survived an elephant attack in Karnataka’s Bandipur Tiger Reserve (BTR) after being pushed down and pinned under the tusker’s foot. Bandipur Tiger Reserve (BTR) is located in Mysore and Chamarajanagar districts of Karnataka at the tri-junction of Karnataka, Tamil Nadu, and Kerala. It is an “ecological confluence” of the Western and Eastern Ghats and was once a hunting ground of Mysore rulers. It forms part of the Nilgiri Biosphere Reserve, a UNESCO World Heritage Site.",
+        "output": "Question:43.Bandipur Tiger Reserve (BTR) is located in which state? \nOptions: \n[A] Karnataka  \n[B] Odisha  \n[C] Maharashtra  \n[D] Madhya Pradesh \nCorrect Answer: A [Karnataka]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "On August 14, 2025, Dr. Vece Paes, a 1972 Munich Olympics bronze medal-winning hockey player, passed away in Kolkata at the age of 80 after prolonged illness. He was suffering from an advanced stage of Parkinson’s disease. Born in 1945 in Goa, he combined careers as a medical practitioner and a hockey player. He made his international debut in 1966 at the Hamburg International Cup and later won a bronze at the 1971 World Cup and 1972 Olympics. He represented clubs like Mohun Bagan and East Bengal, winning multiple Beighton Cups and Calcutta League titles.",
+        "output": "Question:44.Vece Paes, who recently passed away, was associated with which sports? \nOptions: \n[A] Boxing  \n[B] Table Tennis  \n[C] Hockey  \n[D] Football \nCorrect Answer: C [Hockey]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Scientists recently recorded the rare nocturnal moth species Antitrisuloides catocalina in Choolannur Peafowl Sanctuary, Palakkad district, Kerala. This is the first time the species has been found in the Western Ghats. It belongs to the genus Antitrisuloides and is part of the Noctuidae family. The genus has only two known species worldwide. The specimen in Kerala was earlier reported only from North-East India.",
+        "output": "Question:45.Antitrisuloides catocalina, that was recently seen in news, belongs to which species? \nOptions: \n[A] Invasive weed  \n[B] Frog  \n[C] Fish  \n[D] Moth \nCorrect Answer: D [Moth]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The National Green Tribunal (NGT) recently criticised Madhya Pradesh for allowing the annual Darshan Yatra in the core area of Bandhavgarh Tiger Reserve. Bandhavgarh Tiger Reserve is located in Umaria district of Madhya Pradesh within the Satpura and Vindhya mountain ranges. The name comes from the ancient Bandhavgarh Fort, said to be gifted by Lord Rama to his brother Lakshmana. Bandhavgarh has the highest known tiger density in India and the world.",
+        "output": "Question:46.Bandhavgarh Tiger Reserve is located in which state? \nOptions: \n[A] Karnataka  \n[B] Madhya Pradesh  \n[C] Gujarat  \n[D] Kerala \nCorrect Answer: B [Madhya Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "The US President recently announced a 175 billion dollar Golden Dome missile defence shield for the United States. It is a ground and space-based system designed to protect the country from advanced missile threats. Golden Dome will use a network of satellites to detect, track and intercept incoming missiles, including long-range ones from space or other continents. It will integrate with existing US defence systems like Patriot, THAAD (Terminal High Altitude Area Defence), Aegis Ballistic Missile Defence and Ground-based Midcourse Defence (GMD).",
+        "output": "Question:47.Golden Dome missile defence system, which was seen in the news, belongs to which country? \nOptions: \n[A] Russia  \n[B] France  \n[C] United States  \n[D] Germany \nCorrect Answer: C [United States]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Punjab chief minister Bhagwant Mann announced that cops performing well in the “Yudh Nashian Virudh” (anti-drug war) campaign will get monetary rewards. From March 1, 2026, police personnel recovering 1 kg heroin will receive ₹1.2 lakh as a cash reward. Pakistan is the main source of drugs and the state government has demolished houses built with drug money, jailed smugglers, and stopped open drug sales. Punjab became the first state to deploy its own anti-drone system to destroy objects coming from across the border. For the first time, an anti-drug syllabus has been introduced in Punjab schools to create awareness.",
+        "output": "Question:48.“Yudh Nashian Virudh” (anti-drug war) campaign was launched by which state government? \nOptions: \n[A] Punjab  \n[B] Andhra Pradesh  \n[C] Haryana  \n[D] Gujarat \nCorrect Answer: A [Punjab]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "Arunachal Pradesh Education Minister Pasang Dorjee Sona inaugurated a state-of-the-art space laboratory at Mechuka in Shi-Yomi district. The lab is named Pasang Wangchuk Sona ISRO Space Laboratory in honour of his late father. It was set up at Mechuka Government Higher Secondary School in collaboration with Indian Space Research Organisation (ISRO) and Muskaan Foundation. The lab will provide students hands-on experience in space science and technology. It aims to foster curiosity, innovation, and scientific thinking among youth.",
+        "output": "Question:49.Where was the Pasang Wangchuk Sona ISRO Space Laboratory inaugurated? \nOptions: \n[A] Arunachal Pradesh  \n[B] Mizoram  \n[C] Tripura  \n[D] Nagaland \nCorrect Answer: A [Arunachal Pradesh]"
+    },
+    {
+        "instruction": "Generate a Multiple Choice Question on the input context",
+        "input": "An earthquake of magnitude 5.7 recently struck Sulawesi in Indonesia. Sulawesi, earlier called Celebes, is a large island in Southeast Asia and part of the Indonesian archipelago. It belongs to the Greater Sunda Islands and is the 11th largest island in the world with an area of 180,680.7 square kilometers. The island has four interconnecting peninsulas and is surrounded by Borneo, Philippines, Maluku Islands, Flores, and Timor. It is mountainous with active volcanoes and rich rainforests, though much deforested.",
+        "output": "Question:50.Sulawesi Island, that was recently seen in news, is part of which country? \nOptions: \n[A] Singapore  \n[B] Japan  \n[C] Indonesia  \n[D] Vietnam \nCorrect Answer: C [Indonesia]"
+    }
+]

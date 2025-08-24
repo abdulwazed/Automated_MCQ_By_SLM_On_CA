@@ -1,0 +1,100 @@
+21.What is the theme for International Nurses Day 2025?
+[A] Our Nurses. Our Future. Caring for nurses strengthens economies
+[B] Nurses: A Voice to Lead – Nursing the World to Health
+[C] Nurses: A Voice to Lead – A Vision for Future Healthcare
+[D] None of the Above
+Hide Answer
+
+Correct Answer: A [Our Nurses. Our Future. Caring for nurses strengthens economies]
+Notes:
+International Nurses Day, observed annually on May 12th, the birth anniversary of Florence Nightingale, recognizes the vital contributions of nurses worldwide. The theme for International Nurses Day 2025 is “Our Nurses. Our Future. Caring for nurses strengthens economies”. This year’s theme emphasizes the economic and societal importance of investing in nurses, their well-being, and their rights.
+22.Where is the headquarters of International Maritime Organization (IMO) located?
+[A] London
+[B] Paris
+[C] New Delhi
+[D] Geneva
+Hide Answer
+
+Correct Answer: A [London]
+Notes:
+The 83rd session of the Marine Environment Protection Committee (MEPC-83) under the International Maritime Organization (IMO) recently adopted a landmark decision to address shipping emissions. The IMO is a specialized agency of the United Nations (UN) focused on the safety and security of international shipping. It works to prevent marine and atmospheric pollution caused by ships and directly supports UN Sustainable Development Goal (SDG) 14, which aims to conserve oceans and marine resources. The IMO formulates regulations on shipping safety, maritime security, and environmental protection, though it doesn’t enforce them. It has 174 member states and is headquartered in London.
+23.Centralised Information Management System (CIMS) portal was introduced by which institution?
+[A] Reserve Bank of India (RBI)
+[B] NITI Aayog
+[C] State Bank of India (SBI)
+[D] Ministry of Electronics and Information Technology
+Hide Answer
+
+Correct Answer: A [Reserve Bank of India (RBI) ]
+Notes:
+The Reserve Bank of India (RBI) has made it mandatory for Regulated Entities (REs) to report details of their Digital Lending Apps (DLAs) through the Centralised Information Management System (CIMS) portal. Centralised Information Management System (CIMS) is a modern data management platform introduced by the RBI to handle large-scale data processing, analysis, and sharing. It acts as a central data warehouse, using advanced tools for data mining, text analysis, and visual insights across financial and economic sectors. It improves the efficiency of regulatory reporting and reduces workload for banks and regulated firms. It helps RBI monitor the financial system better and react faster to potential risks.
+24.Which ministry is responsible for implementing the SAMRIDH scheme?
+[A] Ministry of Commerce and Industry
+[B] Ministry of Skill Development and Entrepreneurship
+[C] Ministry of Electronics and Information Technology
+[D] Ministry of Micro, Small and Medium Enterprises
+Hide Answer
+
+Correct Answer: C [Ministry of Electronics and Information Technology ]
+Notes:
+Recently, two people, including a chartered accountant, were arrested for cheating the Ministry of Electronics and Information Technology (MeitY) of over ₹3 crore under the SAMRIDH scheme. The Startup Accelerator for Product Innovation, Development, and Growth (SAMRIDH) is a key programme of MeitY launched under the National Policy on Software Products–2019. It supports existing and new accelerators to select and scale promising Information Technology (IT)-based startups. The scheme helps startups connect with customers, investors, and global markets. It provides up to ₹40 lakh per startup and requires matching investment from the accelerator. The programme is implemented by Ministry of Electronics and Information Technology (MeitY) Start-up Hub (MSH), Digital India Corporation (DIC).
+25.Which country has inaugurated world’s first large-scale commercial e-methanol facility?
+[A] Russia
+[B] France
+[C] Denmark
+[D] Australia
+Hide Answer
+
+Correct Answer: C [Denmark]
+Notes:
+Denmark has inaugurated the world’s first large-scale commercial e-methanol facility in Kasso, southern Denmark. It has a production capacity of 42,000 metric tons (53 million litres) of e-methanol annually. E-methanol offers a viable path for reducing emissions in sectors like shipping and chemical manufacturing. E-methanol is produced by combining green hydrogen with captured carbon dioxide.
+26.Bhadar River, that was recently seen in news, flows through which state?
+[A] Odisha
+[B] Gujarat
+[C] Bihar
+[D] Rajasthan
+Hide Answer
+
+Correct Answer: B [Gujarat]
+Notes:
+Recently, the National Green Tribunal (NGT) directed the Gujarat Pollution Control Board (GPCB) to file a fresh action taken report regarding pollution abatement efforts for the River Bhadar near Ahmedabad. The Bhadar River, a major river in Gujarat’s Saurashtra peninsula, originates near Hingolgadh in Junagadh and flows into the Arabian Sea near Navi Bandargam. It has a catchment area of about 7953 sq. km and spans roughly 190 km in length. The Bhadar Dam, constructed in 1965, is a major reservoir located near Jetpur. The NGT, established under the NGT Act of 2010, is a specialized judicial body handling cases related to environmental protection.
+27.What is the name of the scheme launched to upgrade existing schools into model schools with modern infrastructure?
+[A] Digital India Schools Program
+[B] PM Vidya Scheme
+[C] PM SHRI Scheme
+[D] PM VIKSIT Scheme
+Hide Answer
+
+Correct Answer: C [PM SHRI Scheme]
+Notes:
+Kerala has decided to move the Supreme Court after the Centre withheld ₹1,500 crore for education schemes, citing Kerala’s non-participation in the PM Schools for Rising India (PM SHRI) scheme. PM SHRI stands for Pradhan Mantri Schools for Rising India and was launched in 2022 as a Centrally Sponsored Scheme. It aims to upgrade selected schools as model institutions to implement the National Education Policy (NEP) 2020. The scheme runs from 2022–23 to 2026–27, after which states and Union Territories will maintain the standards. It focuses on modern infrastructure, smart classrooms, labs, sustainability, and real-world skill development.
+28.Which company has launched the Artificial Intelligence (AI) First India 2025 Startup Accelerator to boost India’s emerging startups?
+[A] Microsoft
+[B] Amazon
+[C] Google
+[D] Meta
+Hide Answer
+
+Correct Answer: C [Google]
+Notes:
+Recently, Google launched the AI First India 2025 Startup Accelerator to support AI-based startups in India. The program is designed for startups in the Seed to Series A funding stages. It focuses on emerging areas like Agentic Artificial Intelligence (AI) and Multimodal Artificial Intelligence (AI). Selected startups will get mentorship from Google experts and access to Cloud Tensor Processing Units (TPUs). They will also receive advanced AI development tools and help in using AI models like Gemini and Gemma. This initiative highlights Google’s strong commitment to building innovation and AI talent in India’s technology ecosystem.
+29.Which northeastern state has introduced a first-of-its-kind AI anchor named Ankita to promote digital transformation and citizen engagement ?
+[A] Assam
+[B] Nagaland
+[C] Tripura
+[D] Manipur
+Hide Answer
+
+Correct Answer: A [Assam]
+Notes:
+On May 14, 2025, Assam Chief Minister (CM) Himanta Biswa Sarma introduced a first-of-its-kind Artificial Intelligence (AI) anchor named Ankita to promote digital transformation and citizen engagement. The AI anchor presented key decisions from the Assam Cabinet meeting, including renaming Dibrugarh Airport after cultural icon Bhupen Hazarika and a one-time grant for tea garden workers. Ankita delivered updates in fluent Assamese with realistic voice modulation and expressions, making the communication more relatable and interactive. This digital initiative aims to make governance more accessible for the digital generation and reflects Assam’s push toward AI-led good governance. Earlier, Assam had introduced ‘Iris’, the first AI teacher at Royal Global School in Guwahati, dressed in traditional Mekhela-Chador.
+30.Shakargarh Bulge, that was recently seen in news, is a strategic area located in which country?
+[A] India
+[B] China
+[C] Pakistan
+[D] Afghanistan
+Hide Answer
+
+Correct Answer: C [Pakistan]
+Notes:
+The Shakargarh Bulge is a strategic area in Pakistani territory that sticks into India, located between the Ravi and Chenab rivers. It has flat terrain and lies close to key Indian cities like Amritsar, Pathankot, Batala, and Gurdaspur, with important road links to Jammu. This makes it a critical military corridor for both India and Pakistan. Recently, a major build-up of tanks and armoured vehicles by the Pakistan Army was spotted here. The area is historically significant as the site of the 12-day Battle of Basantar during the 1971 Indo-Pakistan War, which influenced the western front’s outcome.

@@ -1,0 +1,100 @@
+11.Which country is the host of Women’s Asia Cup Hockey 2025?
+[A] India
+[B] China
+[C] Japan
+[D] Singapore
+Hide Answer
+
+Correct Answer: B [China]
+Notes:
+The schedule for the Women’s Asia Cup Hockey 2025 has been announced and the tournament will be held in Hangzhou, China from 5th to 14th September. The Indian Women’s Hockey Team will start their campaign against Thailand on 5th September. India is in Pool B with Japan, Thailand, and Singapore, while Pool A includes China, Korea, Malaysia, and Chinese Taipei. India won the Bronze medal in the last edition and is aiming for the Gold this time. Winning the Asia Cup will give Team India direct entry to the 2026 Women’s Fédération Internationale de Hockey (FIH) Hockey World Cup.
+12.What is the name of the security operation launched by the Indian Army for the Amarnath Yatra 2025?
+[A] Operation Trinetra
+[B] Operation Shiva
+[C] Operation Vijay
+[D] Operation Surya
+Hide Answer
+
+Correct Answer: B [Operation Shiva]
+Notes:
+Recently, the Indian Army launched Operation Shiva in Jammu and Kashmir to ensure full security for the 38-day-long Amarnath Yatra beginning on July 3, 2025. This sacred pilgrimage to the Amarnath Cave shrine at 3,888 meters attracts thousands of devotees every year. The Shri Amarnathji Shrine Board (SASB) introduced Radio Frequency Identification (RFID) cards for tracking pilgrims.
+13.Which has become the first major Indian e-commerce company to receive a Non-Banking Financial Company (NBFC) licence from RBI?
+[A] Amazon
+[B] Snapdeal
+[C] Meesho
+[D] Flipkart
+Hide Answer
+
+Correct Answer: D [Flipkart]
+Notes:
+Flipkart has become the first major Indian e-commerce company to receive a Non-Banking Financial Company (NBFC) licence from the Reserve Bank of India (RBI). This marks the first time RBI has allowed a large e-commerce platform to operate its own NBFC. Unlike traditional NBFCs, Flipkart can lend money directly but cannot accept public deposits. Earlier, most e-commerce platforms offered loans through partnerships with banks or NBFCs. With this licence, Flipkart can now lend independently, which offers better control and higher profits. This development highlights RBI’s evolving regulatory stance on digital commerce and fintech integration.
+14.Which institute has developed a web app called Dynamic Route Planning for Urban Green Mobility (DRUM)?
+[A] IIT Delhi
+[B] IIT Bombay
+[C] IIT Kanpur
+[D] IIT Kharagpur
+Hide Answer
+
+Correct Answer: D [IIT Kharagpur ]
+Notes:
+Recently, IIT (Indian Institute of Technology) Kharagpur developed a web app called Dynamic Route Planning for Urban Green Mobility (DRUM). DRUM is like Google Maps but also helps users choose routes based on air quality and energy efficiency. It offers five route options: shortest, fastest, Least Exposure to Air Pollution (LEAP), Least Energy Consumption Route (LECR), and a combined suggested route. It uses live pollution and traffic data fetched instantly when a user enters a route. The app uses GraphHopper and Mapbox for real-time routing and traffic updates.
+15.Kalvarayan Hills are located in which state?
+[A] Kerala
+[B] Karnataka
+[C] Tamil Nadu
+[D] Maharashtra
+Hide Answer
+
+Correct Answer: C [Tamil Nadu]
+Notes:
+For the first time, a tribal girl from the Kalvarayan Hills has secured admission to the Indian Institute of Technology (IIT), marking a historic achievement. The Kalvarayan Hills are located in the Eastern Ghats of Tamil Nadu and spread across 1,095 sq.km. These hills lie between the Kaveri River basin in the south and the Palar River basin in the north. They rise between 2,000 and 3,000 feet and stretch northeast from the Salem district. This success story highlights increasing access to higher education for tribal communities in remote regions.
+16.Tamhini Wildlife Sanctuary is located in which state?
+[A] Maharashtra
+[B] Tamil Nadu
+[C] Karnataka
+[D] Kerala
+Hide Answer
+
+Correct Answer: A [Maharashtra]
+Notes:
+Maharashtra Forest Department has recently partnered with Microsoft and Centre for Youth Development and Activities (CYDA), Pune, to solve socio-ecological issues in Tamhini Wildlife Sanctuary. Tamhini Wildlife Sanctuary is a protected forest located in the Western Ghats near Pune, Maharashtra. It includes 12 compartments from Paund and Sinhgad ranges in Pune division and 8 compartments from Mangaon range in Roha division of Thane.
+17.Where was the new species of planarian worm named Dugesia punensis recently discovered?
+[A] Loktak Lake, Manipur
+[B] Chilika Lake, Odisha
+[C] Pashan Lake, Pune
+[D] Dal Lake, Srinagar
+Hide Answer
+
+Correct Answer: C [Pashan Lake, Pune]
+Notes:
+A new species of planarian worm named Dugesia punensis was recently discovered in Pashan Lake, Pune, Maharashtra. Planarians are aquatic flatworms known for their amazing ability to regenerate lost body parts. This species was found in a wetland within the Western Ghats, which is a biodiversity hotspot. The discovery marks the first time since 1983 that a new planarian species has been identified in India. Dugesia punensis adds to the understanding of India’s freshwater biodiversity and highlights the ecological importance of urban wetlands like Pashan Lake.
+18.Which state government has recently launched a Border Tourism initiative to promote sustainable tourism in tribal areas?
+[A] Himachal Pradesh
+[B] Uttarakhand
+[C] Arunachal Pradesh
+[D] Sikkim
+Hide Answer
+
+Correct Answer: A [Himachal Pradesh]
+Notes:
+Himachal Pradesh has launched a Border Tourism initiative to promote sustainable tourism in tribal areas near the Indo-China border. The initiative will be inaugurated by Chief Minister Sukhvinder Singh Sukhu during his visit to Shipki-La village in Kinnaur district. It is developed with the Union Government to support inclusive growth in remote border areas. Domestic tourists and locals can now access sites in Kinnaur and Lahaul-Spiti like Shipki-La, Lepcha-La, Gue Monastery, and Chitkul.
+19.What is the name of the digital ocean data portal launched by India at the third United Nations Ocean Conference?
+[A] SAMUDRA
+[B] PRAKRITI
+[C] SAHAV
+[D] SURYA
+Hide Answer
+
+Correct Answer: C [SAHAV]
+Notes:
+At the third United Nations Ocean Conference (UNOC3) in Nice, Paris, Union Earth Sciences Minister Jitendra Singh launched SAHAV, a digital ocean data portal to promote transparent and science-based ocean management. United Nations Ocean Conference (UNOC3) held from June 9–13, 2025, aims to support Sustainable Development Goal 14: Conserve and sustainably use oceans, seas, and marine resources.
+20.Which state government has launched a project to convert INS Guldar into India’s first underwater museum?
+[A] Maharashtra
+[B] Tamil Nadu
+[C] Goa
+[D] Kerala
+Hide Answer
+
+Correct Answer: A [Maharashtra]
+Notes:
+India’s first underwater museum and artificial coral reef will be created around the decommissioned warship Indian Naval Ship (INS) Guldar near Nivati Rocks in Sindhudurg district, Maharashtra. The project was virtually inaugurated by the Chief Minister of Maharashtra with strong support from the central government. It aims to promote marine conservation and tourism, offering activities like scuba diving and submarine tours in the future. INS Guldar, a 1,120-ton ship decommissioned in January 2024, has been handed over to Maharashtra Tourism Development Corporation.

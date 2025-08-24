@@ -1,0 +1,100 @@
+31.What is the main objective of the PM Vidyalakshmi Scheme?
+[A] Provide financial support to meritorious students for higher education
+[B] Provide free laptops to students
+[C] Promote digital learning in tribal areas
+[D] Offer skill development courses
+Hide Answer
+
+Correct Answer: A [Provide financial support to meritorious students for higher education]
+Notes:
+Public sector banks (PSBs) have raised concerns about the slow uptake of the PM Vidyalaxmi scheme. These concerns relate to the implementation of the scheme. The PM Vidyalakshmi scheme, a Central Sector Scheme, provides financial support to meritorious students for higher education. It targets students admitted to India’s top 860 Quality Higher Education Institutions (QHEIs), ranked by the National Institutional Ranking Framework (NIRF). Students receiving other government scholarships or fee reimbursements are not eligible for this scheme. Students who discontinue studies or are dismissed for academic or disciplinary reasons are also ineligible for the scheme’s benefits. Loans can be applied for through the PM Vidyalakshmi portal, which offers a seamless, digital application process by integrating with various banks.
+32.Which organization has launched its 7th-generation Tensor Processing Unit (TPU) named Ironwood?
+[A] Google
+[B] Microsoft
+[C] Meta
+[D] Amazon
+Hide Answer
+
+Correct Answer: A [Google]
+Notes:
+Google has launched its 7th-generation Tensor Processing Unit (TPU), named Ironwood, to improve the performance of Artificial Intelligence (AI) models. TPU is a specialised processor known as an Application-Specific Integrated Circuit (ASIC) developed by Google in 2015. It is designed especially for machine learning and AI tasks. TPUs are made to perform tensor operations, which are the main data structures used in Machine Learning (ML) models. TPUs are faster than Central Processing Units (CPUs) and Graphics Processing Units (GPUs) in AI tasks. They can train complex neural networks in just a few hours.
+33.Which state has ranked first in India for implementing the PM Micro Food Processing Enterprises Upgradation Scheme (PMFME)?
+[A] Madhya Pradesh
+[B] Gujarat
+[C] Bihar
+[D] Uttar Pradesh
+Hide Answer
+
+Correct Answer: D [Uttar Pradesh]
+Notes:
+Uttar Pradesh has ranked first in India for implementing the Pradhan Mantri Micro Food Processing Enterprises Upgradation Scheme (PMFME). The average loan approval time in Uttar Pradesh is 101 days, compared to 110 days in Bihar and 190 days in Telangana. Uttar Pradesh has achieved a 14% growth in loan disbursement under the scheme. The state spent Rs 250 crore more than in 2024. For the year 2025–26, the budget for Uttar Pradesh increased by 56%, with an additional Rs 300 crore allocated. The PMFME scheme was launched in 2020 under the Atmanirbhar Abhiyaan to support micro food enterprises.
+34.Which state has become the first in India to launch Online Permanent Lok Adalat Services?
+[A] Telangana
+[B] Tamil Nadu
+[C] Kerala
+[D] Madhya Pradesh
+Hide Answer
+
+Correct Answer: C [Kerala]
+Notes:
+Kerala has become the first state in India to launch Online Permanent Lok Adalat Services. Permanent Lok Adalat is organized under Section 22-B of the Legal Services Authorities Act, 1987. It has the same powers as a Civil Court under the Code of Civil Procedure, 1908. It acts as a compulsory pre-litigation mechanism for conciliation and settlement of disputes related to Public Utility Services like transport, postal, and telegraph. The judgment given is final and binding on all the parties involved.
+35.Which coal PSU has become the first in India to adopt Paste Fill Technology in underground mining?
+[A] Eastern Coalfields Limited (ECL)
+[B] Central Coalfields Limited (CCL)
+[C] Mahanadi Coalfields Limited (MCL)
+[D] South Eastern Coalfields Limited (SECL)
+Hide Answer
+
+Correct Answer: D [South Eastern Coalfields Limited (SECL)]
+Notes:
+South Eastern Coalfields Limited (SECL) has become the first coal Public Sector Undertaking (PSU) in India to adopt Paste Fill Technology in underground mining. Paste Fill Technology is a modern method used in underground mining to fill the empty spaces left after coal extraction. The paste used is made by mixing crushed overburden from opencast mines, fly ash, cement, water, and binding chemicals. This technique eliminates the need for acquiring additional surface land. It also helps prevent land subsidence, making mining operations more environmentally friendly and safe.
+36.Which country is the host of Exercise Desert Flag-10?
+[A] Japan
+[B] United States
+[C] India
+[D] United Arab Emirates (UAE)
+Hide Answer
+
+Correct Answer: D [United Arab Emirates (UAE)]
+Notes:
+The Indian Air Force (IAF) is taking part in Exercise Desert Flag-10 from April 21 to May 8, 2025, at Al Dhafra Air Base in the United Arab Emirates (UAE). Exercise Desert Flag is a major multinational air combat exercise that trains different air forces under realistic war-like conditions. IAF has deployed two powerful aircraft: MiG-29, an air superiority fighter, and Jaguar, a deep strike ground attack aircraft. This year is special as it marks 50 years since the MiG-29 was first launched. Air forces from 12 countries, including the United States, United Kingdom, and France, are also participating. The goal is to share knowledge, improve tactics, and boost coordination in complex air combat missions.
+37.National Civil Services Day is observed every year on which day?
+[A] April 19
+[B] April 20
+[C] April 21
+[D] April 22
+Hide Answer
+
+Correct Answer: C [April 21]
+Notes:
+National Civil Services Day is observed every year on April 21 by the Government of India to honour the dedication of civil servants who serve the nation. It was first celebrated in 2006 and marks the day in 1947 when Sardar Vallabhbhai Patel called civil servants the “steel frame of India”. Patel addressed Administrative Services probationers at Metcalf House, Delhi, emphasizing the true spirit of public service. On this day, the Prime Minister of India gives the Prime Minister’s (PM) Awards for Excellence in Public Administration. These awards recognise outstanding work by officers in areas like innovation and district development. This year marks the 17th Civil Services Day, with Prime Minister Shri Narendra Modi addressing officers at Vigyan Bhawan, New Delhi.
+38.Nepal celebrated its first-ever National Yak Day on which day?
+[A] April 20
+[B] April 21
+[C] April 22
+[D] April 23
+Hide Answer
+
+Correct Answer: A [April 20]
+Notes:
+Nepal celebrated its first-ever National Yak Day on April 20, 2025, to recognize the cultural, ecological, and economic importance of yaks in the Himalayan region. The International Centre for Integrated Mountain Development (ICIMOD) called for the yak to be included in the sustainable development agenda, especially in the Hindu Kush Himalaya (HKH) region. ICIMOD highlighted the vital role of indigenous communities like the Sherpa, Tamang, Thakali, Rai, and Limbu in preserving yak herding traditions. Yak herding supports food security, cultural identity, and biodiversity conservation in high-altitude areas. The event marked a step toward promoting mountain livelihoods and environmental sustainability.
+39.Mumbai International Cruise Terminal (MICT) has been developed as a part of which mission?
+[A] Green Port Mission
+[B] Cruise Bharat Mission
+[C] Maritime India Mission
+[D] Sagarmala Mission
+Hide Answer
+
+Correct Answer: B [Cruise Bharat Mission]
+Notes:
+Recently, Mumbai International Cruise Terminal (MICT), India’s largest world-class cruise terminal, was inaugurated. It is developed under the Cruise Bharat Mission 2024 to promote India as a top global cruise destination. Cruise Bharat Mission aims to double cruise passenger traffic by 2029 and cruise ship calls from 254 in 2024 to 500 by 2030. The mission supports India’s vision to become a global hub for cruise tourism. It will be implemented in three phases from 2024 to 2029. MICT is a key step in enhancing infrastructure and boosting the cruise tourism economy in India.
+40.Which organization has released its “World Economic Outlook (WEO): A Critical Juncture Among Policy Shift” report in April 2025?
+[A] International Monetary Fund (IMF)
+[B] World Bank
+[C] United Nations Development Programme (UNDP)
+[D] Asian Development Bank (ADB)
+Hide Answer
+
+Correct Answer: A [International Monetary Fund (IMF)]
+Notes:
+The International Monetary Fund (IMF) recently released its “World Economic Outlook (WEO): A Critical Juncture Among Policy Shift” report. The report cuts the global growth forecast to 2.8% and India’s to 6.2% from the earlier January 2025 update. This downgrade is due to global trade tensions and policy uncertainty. The report highlights rapid population ageing as a key concern for economies worldwide.
